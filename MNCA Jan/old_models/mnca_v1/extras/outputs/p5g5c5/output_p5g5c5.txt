@@ -1,0 +1,31 @@
+Generation >0, new best Born and Survive f([[8, 4, 8, 1, 1, 6, 3, 1], [7, 7]]) = 24565.000
+Generation >0, new best Born and Survive f([[6, 5, 1, 8, 4], [3, 7, 4, 6, 8]]) = 34763.000
+Generation >0, new best Born and Survive f([[3, 5], [2, 7, 3, 1]]) = 143152.000
+Generation >0, new best Born and Survive f([[1, 6, 5, 8], [3, 5, 3, 7]]) = 153851.000
+Generation >0, new best Born and Survive f([[5, 2, 4, 4, 6], [7, 7, 4, 4, 6]]) = 166785.000
+Generation >1, new best Born and Survive f([[5, 1, 5, 5, 1], [3, 4, 8, 3]]) = 177034.000
+Generation >1, new best Born and Survive f([[1, 7, 5, 1], [7, 2, 5, 7, 5]]) = 252937.000
+Generation >1, new best Born and Survive f([[5, 1, 5, 5, 1], [3, 4, 8, 3]]) = 263436.000
+Generation >1, new best Born and Survive f([[1, 7, 5, 1], [7, 2, 5, 7, 5]]) = 339301.000
+Generation >1, new best Born and Survive f([[5, 1, 5, 5, 1], [3, 4, 8, 3]]) = 349723.000
+Generation >2, new best Born and Survive f([[1, 2, 5, 7], [3, 3, 4, 1]]) = 536174.000
+Generation >2, new best Born and Survive f([[5, 4, 4, 2, 4], [7, 2, 1, 8, 2]]) = 547415.000
+Generation >2, new best Born and Survive f([[1, 2, 5, 7], [3, 3, 4, 1]]) = 658269.000
+Generation >2, new best Born and Survive f([[5, 4, 4, 2, 4], [7, 2, 1, 8, 2]]) = 669408.000
+Generation >2, new best Born and Survive f([[1, 2, 5, 7], [3, 3, 4, 1]]) = 780135.000
+Generation >3, new best Born and Survive f([[5, 6, 8, 3, 5], [3, 6, 6, 8]]) = 831186.000
+Generation >3, new best Born and Survive f([[1, 1, 8, 4], [7, 2, 3, 3, 7]]) = 846044.000
+Generation >3, new best Born and Survive f([[5, 6, 8, 3, 5], [3, 6, 6, 8]]) = 885764.000
+Generation >3, new best Born and Survive f([[1, 1, 8, 4], [7, 2, 3, 3, 7]]) = 900725.000
+Generation >3, new best Born and Survive f([[5, 6, 8, 3, 5], [3, 6, 6, 8]]) = 940511.000
+Generation >4, new best Born and Survive f([[1, 5, 8, 4], [3, 1, 2, 8]]) = 965874.000
+Generation >4, new best Born and Survive f([[5, 5, 1, 7, 1], [7, 6, 4, 4, 4]]) = 979446.000
+Generation >4, new best Born and Survive f([[1, 5, 8, 4], [3, 1, 2, 8]]) = 989732.000
+Generation >4, new best Born and Survive f([[5, 5, 1, 7, 1], [7, 6, 4, 4, 4]]) = 1003247.000
+Generation >4, new best Born and Survive f([[1, 5, 8, 4], [3, 1, 2, 8]]) = 1013541.000
+Final Best:  [[1, 4, 1, 7], [3, 5, 2, 1]]
+Best Score this rules has:  1013541
+printing generations
+[0, 1, 2, 3, 4]
+printing DEFLATEs
+[[24565, 177034, 536174, 831186, 965874], [104623.2, 276486.2, 638280.2, 880846.0, 990368.0], [166785, 349723, 780135, 940511, 1013541]]

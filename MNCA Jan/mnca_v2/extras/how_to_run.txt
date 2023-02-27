@@ -1,0 +1,19 @@
+To run:
+
+open terminal and enter:
+"python3 EC.py 10 10 10 3 > output_p10g10c10l3.txt"
+
+where parameters are like:
+python3 EC.py [param1] [param2] [param3] [param4]
+
+
+param1 = POPULATION_SIZE
+param2 = GENERATIONS_SIZE
+param3 = CROSSOVER
+param4 = LOOP_SIZE_GENERATIONS
+
+This will save a image file and a text file named as:
+- output_p10g10c10l3.txt which is output set of rules
+- output_p10g10c10l3.png which is output deflate chart
+
+

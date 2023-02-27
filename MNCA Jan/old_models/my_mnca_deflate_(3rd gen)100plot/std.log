@@ -1,0 +1,600 @@
+2022-12-22 15:31:18,193 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=8, result=Life)
+2022-12-22 15:31:18,193 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=5, result=Life)
+2022-12-22 15:31:18,193 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=2, result=Life)
+2022-12-22 15:31:18,193 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=2, result=Death)
+2022-12-22 15:31:31,287 68
+2022-12-22 15:31:31,288 -----------------
+2022-12-22 15:31:32,450 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=4, result=Death)
+2022-12-22 15:31:32,450 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=0, result=Life)
+2022-12-22 15:31:32,451 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=4, result=Death)
+2022-12-22 15:31:32,451 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=6, result=Death)
+2022-12-22 15:31:45,697 68
+2022-12-22 15:31:45,697 -----------------
+2022-12-22 15:31:46,842 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=7, result=Life)
+2022-12-22 15:31:46,842 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=5, result=Life)
+2022-12-22 15:31:46,843 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=0, result=Death)
+2022-12-22 15:31:46,843 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=2, result=Death)
+2022-12-22 15:31:59,998 72
+2022-12-22 15:31:59,998 -----------------
+2022-12-22 15:32:01,137 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=3, result=Life)
+2022-12-22 15:32:01,137 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=6, result=Death)
+2022-12-22 15:32:01,137 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=2, result=Death)
+2022-12-22 15:32:01,137 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=4, result=Death)
+2022-12-22 15:32:15,148 78
+2022-12-22 15:32:15,149 -----------------
+2022-12-22 15:32:16,293 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=1, result=Death)
+2022-12-22 15:32:16,293 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=8, result=Life)
+2022-12-22 15:32:16,293 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=3, result=Life)
+2022-12-22 15:32:16,294 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=3, result=Death)
+2022-12-22 15:32:29,604 79
+2022-12-22 15:32:29,605 -----------------
+2022-12-22 15:32:30,735 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=1, result=Life)
+2022-12-22 15:32:30,736 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=1, result=Death)
+2022-12-22 15:32:30,736 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=5, result=Death)
+2022-12-22 15:32:30,736 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=7, result=Life)
+2022-12-22 15:32:44,507 73
+2022-12-22 15:32:44,507 -----------------
+2022-12-22 15:32:45,632 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=8, result=Life)
+2022-12-22 15:32:45,632 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=1, result=Life)
+2022-12-22 15:32:45,632 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=2, result=Life)
+2022-12-22 15:32:45,632 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=1, result=Life)
+2022-12-22 15:32:59,610 80
+2022-12-22 15:32:59,610 -----------------
+2022-12-22 15:33:00,735 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=1, result=Death)
+2022-12-22 15:33:00,736 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=0, result=Death)
+2022-12-22 15:33:00,736 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=6, result=Death)
+2022-12-22 15:33:00,736 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=5, result=Life)
+2022-12-22 15:33:14,400 68
+2022-12-22 15:33:14,400 -----------------
+2022-12-22 15:33:15,550 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=7, result=Death)
+2022-12-22 15:33:15,550 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=6, result=Life)
+2022-12-22 15:33:15,550 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=1, result=Death)
+2022-12-22 15:33:15,550 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=4, result=Life)
+2022-12-22 15:33:30,456 77
+2022-12-22 15:33:30,456 -----------------
+2022-12-22 15:33:31,591 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=8, result=Death)
+2022-12-22 15:33:31,591 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=7, result=Death)
+2022-12-22 15:33:31,592 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=8, result=Life)
+2022-12-22 15:33:31,592 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=1, result=Death)
+2022-12-22 15:33:45,365 77
+2022-12-22 15:33:45,365 -----------------
+2022-12-22 15:33:46,479 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=8, result=Death)
+2022-12-22 15:33:46,479 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=0, result=Life)
+2022-12-22 15:33:46,479 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=4, result=Life)
+2022-12-22 15:33:46,479 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=1, result=Death)
+2022-12-22 15:34:00,510 78
+2022-12-22 15:34:00,510 -----------------
+2022-12-22 15:34:01,651 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=1, result=Life)
+2022-12-22 15:34:01,651 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=5, result=Death)
+2022-12-22 15:34:01,651 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=0, result=Death)
+2022-12-22 15:34:01,652 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=2, result=Death)
+2022-12-22 15:34:15,647 77
+2022-12-22 15:34:15,647 -----------------
+2022-12-22 15:34:16,780 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=3, result=Death)
+2022-12-22 15:34:16,780 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=4, result=Life)
+2022-12-22 15:34:16,780 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=1, result=Death)
+2022-12-22 15:34:16,780 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=5, result=Death)
+2022-12-22 15:34:30,543 68
+2022-12-22 15:34:30,543 -----------------
+2022-12-22 15:34:31,658 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=8, result=Death)
+2022-12-22 15:34:31,659 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=5, result=Death)
+2022-12-22 15:34:31,659 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=8, result=Life)
+2022-12-22 15:34:31,659 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=7, result=Death)
+2022-12-22 15:34:45,449 68
+2022-12-22 15:34:45,449 -----------------
+2022-12-22 15:34:46,589 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=8, result=Life)
+2022-12-22 15:34:46,590 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=1, result=Death)
+2022-12-22 15:34:46,590 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=8, result=Death)
+2022-12-22 15:34:46,590 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=0, result=Life)
+2022-12-22 15:35:00,548 68
+2022-12-22 15:35:00,549 -----------------
+2022-12-22 15:35:01,700 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=3, result=Death)
+2022-12-22 15:35:01,700 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=6, result=Death)
+2022-12-22 15:35:01,701 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=1, result=Life)
+2022-12-22 15:35:01,701 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=3, result=Life)
+2022-12-22 15:35:15,238 79
+2022-12-22 15:35:15,238 -----------------
+2022-12-22 15:35:16,371 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=2, result=Death)
+2022-12-22 15:35:16,371 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=0, result=Life)
+2022-12-22 15:35:16,372 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=6, result=Death)
+2022-12-22 15:35:16,372 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=7, result=Death)
+2022-12-22 15:35:29,967 68
+2022-12-22 15:35:29,967 -----------------
+2022-12-22 15:35:31,106 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=8, result=Death)
+2022-12-22 15:35:31,106 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=1, result=Death)
+2022-12-22 15:35:31,106 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=8, result=Death)
+2022-12-22 15:35:31,106 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=1, result=Life)
+2022-12-22 15:35:44,490 68
+2022-12-22 15:35:44,490 -----------------
+2022-12-22 15:35:45,609 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=8, result=Life)
+2022-12-22 15:35:45,610 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=1, result=Life)
+2022-12-22 15:35:45,610 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=7, result=Death)
+2022-12-22 15:35:45,610 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=0, result=Death)
+2022-12-22 15:35:58,960 75
+2022-12-22 15:35:58,960 -----------------
+2022-12-22 15:36:00,087 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=8, result=Life)
+2022-12-22 15:36:00,087 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=2, result=Life)
+2022-12-22 15:36:00,087 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=1, result=Death)
+2022-12-22 15:36:00,087 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=3, result=Death)
+2022-12-22 15:36:13,585 68
+2022-12-22 15:36:13,585 -----------------
+2022-12-22 15:36:14,730 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=2, result=Death)
+2022-12-22 15:36:14,730 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=8, result=Life)
+2022-12-22 15:36:14,730 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=8, result=Death)
+2022-12-22 15:36:14,730 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=2, result=Death)
+2022-12-22 15:36:28,680 68
+2022-12-22 15:36:28,680 -----------------
+2022-12-22 15:36:29,791 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=2, result=Life)
+2022-12-22 15:36:29,792 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=0, result=Life)
+2022-12-22 15:36:29,792 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=4, result=Death)
+2022-12-22 15:36:29,792 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=3, result=Life)
+2022-12-22 15:36:43,567 78
+2022-12-22 15:36:43,567 -----------------
+2022-12-22 15:36:44,723 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=3, result=Death)
+2022-12-22 15:36:44,724 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=4, result=Death)
+2022-12-22 15:36:44,724 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=7, result=Death)
+2022-12-22 15:36:44,724 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=7, result=Life)
+2022-12-22 15:36:57,857 72
+2022-12-22 15:36:57,857 -----------------
+2022-12-22 15:36:58,981 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=1, result=Life)
+2022-12-22 15:36:58,982 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=2, result=Death)
+2022-12-22 15:36:58,982 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=4, result=Death)
+2022-12-22 15:36:58,982 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=8, result=Death)
+2022-12-22 15:37:12,234 72
+2022-12-22 15:37:12,234 -----------------
+2022-12-22 15:37:13,373 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=0, result=Life)
+2022-12-22 15:37:13,373 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=5, result=Life)
+2022-12-22 15:37:13,373 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=5, result=Death)
+2022-12-22 15:37:13,373 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=1, result=Life)
+2022-12-22 15:37:27,027 72
+2022-12-22 15:37:27,027 -----------------
+2022-12-22 15:37:28,154 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=6, result=Life)
+2022-12-22 15:37:28,154 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=0, result=Death)
+2022-12-22 15:37:28,154 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=6, result=Death)
+2022-12-22 15:37:28,155 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=5, result=Life)
+2022-12-22 15:37:42,270 68
+2022-12-22 15:37:42,270 -----------------
+2022-12-22 15:37:43,418 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=6, result=Death)
+2022-12-22 15:37:43,419 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=4, result=Life)
+2022-12-22 15:37:43,419 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=1, result=Life)
+2022-12-22 15:37:43,419 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=0, result=Death)
+2022-12-22 15:37:56,892 70
+2022-12-22 15:37:56,893 -----------------
+2022-12-22 15:37:58,023 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=6, result=Death)
+2022-12-22 15:37:58,024 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=1, result=Death)
+2022-12-22 15:37:58,024 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=7, result=Life)
+2022-12-22 15:37:58,024 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=2, result=Death)
+2022-12-22 15:38:11,791 71
+2022-12-22 15:38:11,791 -----------------
+2022-12-22 15:38:12,923 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=1, result=Death)
+2022-12-22 15:38:12,923 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=2, result=Life)
+2022-12-22 15:38:12,924 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=0, result=Life)
+2022-12-22 15:38:12,924 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=2, result=Death)
+2022-12-22 15:38:26,748 78
+2022-12-22 15:38:26,748 -----------------
+2022-12-22 15:38:27,893 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=3, result=Life)
+2022-12-22 15:38:27,894 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=4, result=Life)
+2022-12-22 15:38:27,894 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=4, result=Life)
+2022-12-22 15:38:27,894 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=4, result=Death)
+2022-12-22 15:38:41,714 79
+2022-12-22 15:38:41,715 -----------------
+2022-12-22 15:38:42,840 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=1, result=Death)
+2022-12-22 15:38:42,840 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=2, result=Death)
+2022-12-22 15:38:42,840 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=6, result=Death)
+2022-12-22 15:38:42,840 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=1, result=Life)
+2022-12-22 15:38:56,244 68
+2022-12-22 15:38:56,244 -----------------
+2022-12-22 15:38:57,378 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=1, result=Death)
+2022-12-22 15:38:57,378 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=8, result=Life)
+2022-12-22 15:38:57,379 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=8, result=Death)
+2022-12-22 15:38:57,379 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=3, result=Death)
+2022-12-22 15:39:11,164 68
+2022-12-22 15:39:11,164 -----------------
+2022-12-22 15:39:12,293 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=2, result=Life)
+2022-12-22 15:39:12,293 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=3, result=Life)
+2022-12-22 15:39:12,293 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=3, result=Life)
+2022-12-22 15:39:12,293 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=3, result=Life)
+2022-12-22 15:39:26,137 77
+2022-12-22 15:39:26,137 -----------------
+2022-12-22 15:39:27,260 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=1, result=Life)
+2022-12-22 15:39:27,260 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=3, result=Death)
+2022-12-22 15:39:27,260 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=1, result=Life)
+2022-12-22 15:39:27,260 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=1, result=Death)
+2022-12-22 15:39:41,176 80
+2022-12-22 15:39:41,177 -----------------
+2022-12-22 15:39:42,314 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=0, result=Death)
+2022-12-22 15:39:42,314 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=7, result=Life)
+2022-12-22 15:39:42,314 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=1, result=Death)
+2022-12-22 15:39:42,314 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=3, result=Death)
+2022-12-22 15:39:56,347 80
+2022-12-22 15:39:56,347 -----------------
+2022-12-22 15:39:57,496 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=6, result=Death)
+2022-12-22 15:39:57,496 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=1, result=Death)
+2022-12-22 15:39:57,496 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=7, result=Life)
+2022-12-22 15:39:57,496 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=3, result=Death)
+2022-12-22 15:40:10,657 68
+2022-12-22 15:40:10,657 -----------------
+2022-12-22 15:40:11,779 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=0, result=Life)
+2022-12-22 15:40:11,779 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=8, result=Death)
+2022-12-22 15:40:11,779 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=6, result=Life)
+2022-12-22 15:40:11,779 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=4, result=Life)
+2022-12-22 15:40:25,215 75
+2022-12-22 15:40:25,215 -----------------
+2022-12-22 15:40:26,355 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=1, result=Death)
+2022-12-22 15:40:26,355 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=0, result=Death)
+2022-12-22 15:40:26,356 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=8, result=Death)
+2022-12-22 15:40:26,356 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=6, result=Death)
+2022-12-22 15:40:41,202 68
+2022-12-22 15:40:41,203 -----------------
+2022-12-22 15:40:42,348 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=3, result=Life)
+2022-12-22 15:40:42,348 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=3, result=Death)
+2022-12-22 15:40:42,349 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=4, result=Life)
+2022-12-22 15:40:42,349 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=4, result=Life)
+2022-12-22 15:40:55,658 76
+2022-12-22 15:40:55,658 -----------------
+2022-12-22 15:40:56,784 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=1, result=Life)
+2022-12-22 15:40:56,785 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=3, result=Death)
+2022-12-22 15:40:56,785 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=5, result=Death)
+2022-12-22 15:40:56,785 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=5, result=Death)
+2022-12-22 15:41:10,560 79
+2022-12-22 15:41:10,560 -----------------
+2022-12-22 15:41:11,701 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=5, result=Life)
+2022-12-22 15:41:11,701 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=7, result=Death)
+2022-12-22 15:41:11,701 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=2, result=Life)
+2022-12-22 15:41:11,701 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=2, result=Life)
+2022-12-22 15:41:25,327 68
+2022-12-22 15:41:25,327 -----------------
+2022-12-22 15:41:26,475 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=7, result=Life)
+2022-12-22 15:41:26,476 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=4, result=Life)
+2022-12-22 15:41:26,476 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=5, result=Death)
+2022-12-22 15:41:26,476 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=2, result=Death)
+2022-12-22 15:41:40,629 68
+2022-12-22 15:41:40,629 -----------------
+2022-12-22 15:41:41,778 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=8, result=Life)
+2022-12-22 15:41:41,778 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=3, result=Life)
+2022-12-22 15:41:41,778 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=1, result=Life)
+2022-12-22 15:41:41,778 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=6, result=Death)
+2022-12-22 15:41:54,975 68
+2022-12-22 15:41:54,975 -----------------
+2022-12-22 15:41:56,110 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=1, result=Life)
+2022-12-22 15:41:56,110 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=8, result=Death)
+2022-12-22 15:41:56,111 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=5, result=Life)
+2022-12-22 15:41:56,111 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=0, result=Death)
+2022-12-22 15:42:10,505 75
+2022-12-22 15:42:10,505 -----------------
+2022-12-22 15:42:11,643 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=7, result=Life)
+2022-12-22 15:42:11,644 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=8, result=Death)
+2022-12-22 15:42:11,644 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=8, result=Life)
+2022-12-22 15:42:11,644 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=1, result=Life)
+2022-12-22 15:42:25,114 68
+2022-12-22 15:42:25,115 -----------------
+2022-12-22 15:42:26,227 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=5, result=Death)
+2022-12-22 15:42:26,228 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=1, result=Life)
+2022-12-22 15:42:26,228 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=4, result=Death)
+2022-12-22 15:42:26,228 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=3, result=Life)
+2022-12-22 15:42:38,801 68
+2022-12-22 15:42:38,801 -----------------
+2022-12-22 15:42:39,923 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=6, result=Death)
+2022-12-22 15:42:39,923 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=3, result=Death)
+2022-12-22 15:42:39,923 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=1, result=Life)
+2022-12-22 15:42:39,923 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=4, result=Life)
+2022-12-22 15:42:53,594 70
+2022-12-22 15:42:53,594 -----------------
+2022-12-22 15:42:54,727 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=4, result=Life)
+2022-12-22 15:42:54,727 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=8, result=Death)
+2022-12-22 15:42:54,727 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=3, result=Death)
+2022-12-22 15:42:54,727 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=7, result=Death)
+2022-12-22 15:43:09,273 77
+2022-12-22 15:43:09,273 -----------------
+2022-12-22 15:43:10,418 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=3, result=Life)
+2022-12-22 15:43:10,418 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=7, result=Life)
+2022-12-22 15:43:10,418 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=3, result=Death)
+2022-12-22 15:43:10,418 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=8, result=Death)
+2022-12-22 15:43:24,135 71
+2022-12-22 15:43:24,135 -----------------
+2022-12-22 15:43:25,260 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=5, result=Life)
+2022-12-22 15:43:25,260 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=2, result=Life)
+2022-12-22 15:43:25,261 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=1, result=Life)
+2022-12-22 15:43:25,261 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=1, result=Death)
+2022-12-22 15:43:38,497 79
+2022-12-22 15:43:38,497 -----------------
+2022-12-22 15:43:39,636 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=1, result=Death)
+2022-12-22 15:43:39,636 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=1, result=Life)
+2022-12-22 15:43:39,637 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=5, result=Life)
+2022-12-22 15:43:39,637 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=1, result=Death)
+2022-12-22 15:43:53,488 80
+2022-12-22 15:43:53,488 -----------------
+2022-12-22 15:43:54,631 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=6, result=Life)
+2022-12-22 15:43:54,631 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=1, result=Death)
+2022-12-22 15:43:54,631 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=6, result=Death)
+2022-12-22 15:43:54,631 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=1, result=Life)
+2022-12-22 15:44:08,539 68
+2022-12-22 15:44:08,539 -----------------
+2022-12-22 15:44:09,670 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=3, result=Death)
+2022-12-22 15:44:09,671 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=5, result=Life)
+2022-12-22 15:44:09,671 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=4, result=Life)
+2022-12-22 15:44:09,671 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=1, result=Death)
+2022-12-22 15:44:23,460 75
+2022-12-22 15:44:23,461 -----------------
+2022-12-22 15:44:24,612 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=1, result=Life)
+2022-12-22 15:44:24,612 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=5, result=Death)
+2022-12-22 15:44:24,612 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=7, result=Life)
+2022-12-22 15:44:24,613 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=5, result=Death)
+2022-12-22 15:44:38,620 68
+2022-12-22 15:44:38,620 -----------------
+2022-12-22 15:44:39,773 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=0, result=Death)
+2022-12-22 15:44:39,773 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=1, result=Death)
+2022-12-22 15:44:39,773 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=1, result=Life)
+2022-12-22 15:44:39,773 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=2, result=Life)
+2022-12-22 15:44:53,008 76
+2022-12-22 15:44:53,009 -----------------
+2022-12-22 15:44:54,144 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=3, result=Death)
+2022-12-22 15:44:54,144 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=4, result=Life)
+2022-12-22 15:44:54,145 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=4, result=Life)
+2022-12-22 15:44:54,145 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=0, result=Life)
+2022-12-22 15:45:07,934 75
+2022-12-22 15:45:07,934 -----------------
+2022-12-22 15:45:09,056 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=4, result=Life)
+2022-12-22 15:45:09,057 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=5, result=Life)
+2022-12-22 15:45:09,057 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=4, result=Life)
+2022-12-22 15:45:09,057 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=4, result=Death)
+2022-12-22 15:45:22,404 77
+2022-12-22 15:45:22,405 -----------------
+2022-12-22 15:45:23,532 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=4, result=Death)
+2022-12-22 15:45:23,532 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=6, result=Death)
+2022-12-22 15:45:23,532 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=4, result=Death)
+2022-12-22 15:45:23,533 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=4, result=Life)
+2022-12-22 15:45:37,727 72
+2022-12-22 15:45:37,727 -----------------
+2022-12-22 15:45:38,882 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=5, result=Death)
+2022-12-22 15:45:38,883 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=4, result=Life)
+2022-12-22 15:45:38,883 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=2, result=Life)
+2022-12-22 15:45:38,883 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=8, result=Life)
+2022-12-22 15:45:52,767 68
+2022-12-22 15:45:52,767 -----------------
+2022-12-22 15:45:53,903 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=3, result=Life)
+2022-12-22 15:45:53,903 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=6, result=Death)
+2022-12-22 15:45:53,903 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=4, result=Death)
+2022-12-22 15:45:53,904 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=0, result=Death)
+2022-12-22 15:46:07,860 74
+2022-12-22 15:46:07,860 -----------------
+2022-12-22 15:46:09,010 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=6, result=Death)
+2022-12-22 15:46:09,010 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=3, result=Death)
+2022-12-22 15:46:09,010 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=4, result=Death)
+2022-12-22 15:46:09,010 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=3, result=Life)
+2022-12-22 15:46:22,827 68
+2022-12-22 15:46:22,827 -----------------
+2022-12-22 15:46:23,947 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=4, result=Life)
+2022-12-22 15:46:23,948 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=3, result=Life)
+2022-12-22 15:46:23,948 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=3, result=Death)
+2022-12-22 15:46:23,948 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=5, result=Life)
+2022-12-22 15:46:37,136 75
+2022-12-22 15:46:37,136 -----------------
+2022-12-22 15:46:38,257 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=5, result=Death)
+2022-12-22 15:46:38,258 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=3, result=Death)
+2022-12-22 15:46:38,258 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=2, result=Life)
+2022-12-22 15:46:38,258 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=4, result=Life)
+2022-12-22 15:46:51,882 68
+2022-12-22 15:46:51,882 -----------------
+2022-12-22 15:46:53,005 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=5, result=Death)
+2022-12-22 15:46:53,005 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=6, result=Life)
+2022-12-22 15:46:53,006 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=6, result=Life)
+2022-12-22 15:46:53,006 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=8, result=Life)
+2022-12-22 15:47:06,802 68
+2022-12-22 15:47:06,802 -----------------
+2022-12-22 15:47:07,929 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=4, result=Death)
+2022-12-22 15:47:07,930 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=2, result=Life)
+2022-12-22 15:47:07,930 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=1, result=Life)
+2022-12-22 15:47:07,930 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=7, result=Life)
+2022-12-22 15:47:21,852 68
+2022-12-22 15:47:21,852 -----------------
+2022-12-22 15:47:22,985 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=7, result=Death)
+2022-12-22 15:47:22,985 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=1, result=Life)
+2022-12-22 15:47:22,986 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=5, result=Death)
+2022-12-22 15:47:22,986 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=3, result=Death)
+2022-12-22 15:47:36,369 68
+2022-12-22 15:47:36,369 -----------------
+2022-12-22 15:47:37,506 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=1, result=Life)
+2022-12-22 15:47:37,507 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=0, result=Life)
+2022-12-22 15:47:37,507 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=3, result=Death)
+2022-12-22 15:47:37,507 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=0, result=Life)
+2022-12-22 15:47:51,679 79
+2022-12-22 15:47:51,679 -----------------
+2022-12-22 15:47:52,805 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=4, result=Death)
+2022-12-22 15:47:52,805 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=1, result=Life)
+2022-12-22 15:47:52,805 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=7, result=Life)
+2022-12-22 15:47:52,805 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=4, result=Life)
+2022-12-22 15:48:06,491 68
+2022-12-22 15:48:06,491 -----------------
+2022-12-22 15:48:07,612 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=7, result=Life)
+2022-12-22 15:48:07,612 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=3, result=Life)
+2022-12-22 15:48:07,612 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=2, result=Death)
+2022-12-22 15:48:07,612 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=8, result=Life)
+2022-12-22 15:48:21,220 68
+2022-12-22 15:48:21,220 -----------------
+2022-12-22 15:48:22,358 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=5, result=Life)
+2022-12-22 15:48:22,358 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=1, result=Death)
+2022-12-22 15:48:22,358 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=1, result=Death)
+2022-12-22 15:48:22,358 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=3, result=Life)
+2022-12-22 15:48:35,810 84
+2022-12-22 15:48:35,811 -----------------
+2022-12-22 15:48:36,937 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=1, result=Death)
+2022-12-22 15:48:36,937 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=0, result=Death)
+2022-12-22 15:48:36,937 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=3, result=Death)
+2022-12-22 15:48:36,938 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=2, result=Death)
+2022-12-22 15:48:50,669 81
+2022-12-22 15:48:50,669 -----------------
+2022-12-22 15:48:51,804 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=3, result=Death)
+2022-12-22 15:48:51,805 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=1, result=Life)
+2022-12-22 15:48:51,805 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=1, result=Life)
+2022-12-22 15:48:51,805 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=4, result=Life)
+2022-12-22 15:49:05,782 77
+2022-12-22 15:49:05,782 -----------------
+2022-12-22 15:49:06,915 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=8, result=Death)
+2022-12-22 15:49:06,915 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=8, result=Death)
+2022-12-22 15:49:06,915 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=8, result=Death)
+2022-12-22 15:49:06,916 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=6, result=Life)
+2022-12-22 15:49:20,018 68
+2022-12-22 15:49:20,018 -----------------
+2022-12-22 15:49:21,173 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=1, result=Life)
+2022-12-22 15:49:21,174 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=5, result=Death)
+2022-12-22 15:49:21,174 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=3, result=Life)
+2022-12-22 15:49:21,174 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=0, result=Death)
+2022-12-22 15:49:34,967 73
+2022-12-22 15:49:34,967 -----------------
+2022-12-22 15:49:36,112 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=2, result=Life)
+2022-12-22 15:49:36,112 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=5, result=Death)
+2022-12-22 15:49:36,113 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=5, result=Life)
+2022-12-22 15:49:36,113 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=3, result=Death)
+2022-12-22 15:49:49,285 77
+2022-12-22 15:49:49,286 -----------------
+2022-12-22 15:49:50,421 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=6, result=Life)
+2022-12-22 15:49:50,421 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=6, result=Life)
+2022-12-22 15:49:50,422 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=8, result=Life)
+2022-12-22 15:49:50,422 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=1, result=Death)
+2022-12-22 15:50:04,468 68
+2022-12-22 15:50:04,469 -----------------
+2022-12-22 15:50:05,635 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=7, result=Life)
+2022-12-22 15:50:05,635 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=1, result=Death)
+2022-12-22 15:50:05,636 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=8, result=Death)
+2022-12-22 15:50:05,636 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=0, result=Death)
+2022-12-22 15:50:19,449 70
+2022-12-22 15:50:19,449 -----------------
+2022-12-22 15:50:20,567 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=6, result=Death)
+2022-12-22 15:50:20,567 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=1, result=Death)
+2022-12-22 15:50:20,567 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=0, result=Life)
+2022-12-22 15:50:20,567 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=1, result=Life)
+2022-12-22 15:50:34,661 80
+2022-12-22 15:50:34,662 -----------------
+2022-12-22 15:50:35,799 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=0, result=Death)
+2022-12-22 15:50:35,800 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=8, result=Life)
+2022-12-22 15:50:35,800 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=6, result=Death)
+2022-12-22 15:50:35,800 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=2, result=Death)
+2022-12-22 15:50:49,954 82
+2022-12-22 15:50:49,954 -----------------
+2022-12-22 15:50:51,122 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=4, result=Death)
+2022-12-22 15:50:51,122 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=8, result=Death)
+2022-12-22 15:50:51,123 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=5, result=Life)
+2022-12-22 15:50:51,123 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=5, result=Life)
+2022-12-22 15:51:05,292 68
+2022-12-22 15:51:05,292 -----------------
+2022-12-22 15:51:06,440 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=8, result=Death)
+2022-12-22 15:51:06,440 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=5, result=Life)
+2022-12-22 15:51:06,441 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=8, result=Death)
+2022-12-22 15:51:06,441 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=3, result=Death)
+2022-12-22 15:51:20,452 68
+2022-12-22 15:51:20,452 -----------------
+2022-12-22 15:51:21,600 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=6, result=Life)
+2022-12-22 15:51:21,600 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=2, result=Death)
+2022-12-22 15:51:21,600 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=6, result=Life)
+2022-12-22 15:51:21,600 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=7, result=Death)
+2022-12-22 15:51:35,281 68
+2022-12-22 15:51:35,281 -----------------
+2022-12-22 15:51:36,427 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=5, result=Life)
+2022-12-22 15:51:36,427 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=1, result=Life)
+2022-12-22 15:51:36,427 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=0, result=Death)
+2022-12-22 15:51:36,427 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=2, result=Life)
+2022-12-22 15:51:50,153 71
+2022-12-22 15:51:50,153 -----------------
+2022-12-22 15:51:51,299 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=1, result=Death)
+2022-12-22 15:51:51,300 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=6, result=Life)
+2022-12-22 15:51:51,300 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=5, result=Death)
+2022-12-22 15:51:51,300 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=8, result=Death)
+2022-12-22 15:52:04,745 68
+2022-12-22 15:52:04,745 -----------------
+2022-12-22 15:52:05,876 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=1, result=Death)
+2022-12-22 15:52:05,876 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=6, result=Death)
+2022-12-22 15:52:05,876 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=5, result=Death)
+2022-12-22 15:52:05,877 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=6, result=Life)
+2022-12-22 15:52:19,538 68
+2022-12-22 15:52:19,538 -----------------
+2022-12-22 15:52:20,672 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=1, result=Life)
+2022-12-22 15:52:20,672 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=2, result=Death)
+2022-12-22 15:52:20,673 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=3, result=Death)
+2022-12-22 15:52:20,673 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=2, result=Death)
+2022-12-22 15:52:34,050 77
+2022-12-22 15:52:34,050 -----------------
+2022-12-22 15:52:35,167 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=7, result=Death)
+2022-12-22 15:52:35,167 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=6, result=Death)
+2022-12-22 15:52:35,167 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=7, result=Life)
+2022-12-22 15:52:35,167 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=0, result=Death)
+2022-12-22 15:52:49,765 75
+2022-12-22 15:52:49,765 -----------------
+2022-12-22 15:52:50,915 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=6, result=Life)
+2022-12-22 15:52:50,915 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=1, result=Life)
+2022-12-22 15:52:50,915 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=3, result=Life)
+2022-12-22 15:52:50,916 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=1, result=Life)
+2022-12-22 15:53:04,101 72
+2022-12-22 15:53:04,101 -----------------
+2022-12-22 15:53:05,226 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=5, result=Death)
+2022-12-22 15:53:05,227 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=1, result=Death)
+2022-12-22 15:53:05,227 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=2, result=Death)
+2022-12-22 15:53:05,227 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=3, result=Death)
+2022-12-22 15:53:19,496 79
+2022-12-22 15:53:19,496 -----------------
+2022-12-22 15:53:20,627 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=3, result=Life)
+2022-12-22 15:53:20,628 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=3, result=Life)
+2022-12-22 15:53:20,628 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=3, result=Life)
+2022-12-22 15:53:20,628 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=3, result=Life)
+2022-12-22 15:53:34,790 79
+2022-12-22 15:53:34,790 -----------------
+2022-12-22 15:53:35,915 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=0, result=Life)
+2022-12-22 15:53:35,915 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=7, result=Life)
+2022-12-22 15:53:35,915 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=6, result=Death)
+2022-12-22 15:53:35,915 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=1, result=Death)
+2022-12-22 15:53:49,505 68
+2022-12-22 15:53:49,505 -----------------
+2022-12-22 15:53:50,642 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=6, result=Death)
+2022-12-22 15:53:50,643 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=2, result=Death)
+2022-12-22 15:53:50,643 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=8, result=Life)
+2022-12-22 15:53:50,643 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=1, result=Life)
+2022-12-22 15:54:04,578 77
+2022-12-22 15:54:04,578 -----------------
+2022-12-22 15:54:05,694 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=3, result=Death)
+2022-12-22 15:54:05,694 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=0, result=Death)
+2022-12-22 15:54:05,694 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=3, result=Life)
+2022-12-22 15:54:05,695 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=7, result=Death)
+2022-12-22 15:54:19,909 80
+2022-12-22 15:54:19,909 -----------------
+2022-12-22 15:54:21,049 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=8, result=Death)
+2022-12-22 15:54:21,050 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=3, result=Death)
+2022-12-22 15:54:21,050 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=7, result=Death)
+2022-12-22 15:54:21,050 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=4, result=Life)
+2022-12-22 15:54:34,903 68
+2022-12-22 15:54:34,903 -----------------
+2022-12-22 15:54:36,040 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=7, result=Death)
+2022-12-22 15:54:36,040 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=3, result=Life)
+2022-12-22 15:54:36,040 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=0, result=Life)
+2022-12-22 15:54:36,041 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=6, result=Life)
+2022-12-22 15:54:49,967 70
+2022-12-22 15:54:49,967 -----------------
+2022-12-22 15:54:51,113 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=1, result=Life)
+2022-12-22 15:54:51,114 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=8, result=Life)
+2022-12-22 15:54:51,114 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=5, result=Life)
+2022-12-22 15:54:51,114 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=3, result=Death)
+2022-12-22 15:55:04,413 68
+2022-12-22 15:55:04,413 -----------------
+2022-12-22 15:55:05,542 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=7, result=Life)
+2022-12-22 15:55:05,542 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=7, result=Life)
+2022-12-22 15:55:05,542 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=2, result=Life)
+2022-12-22 15:55:05,542 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=8, result=Life)
+2022-12-22 15:55:18,893 68
+2022-12-22 15:55:18,893 -----------------
+2022-12-22 15:55:20,028 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=5, result=Death)
+2022-12-22 15:55:20,028 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=7, result=Death)
+2022-12-22 15:55:20,028 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=2, result=Death)
+2022-12-22 15:55:20,028 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=3, result=Life)
+2022-12-22 15:55:33,663 68
+2022-12-22 15:55:33,663 -----------------
+2022-12-22 15:55:34,779 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=8, result=Life)
+2022-12-22 15:55:34,779 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=6, result=Death)
+2022-12-22 15:55:34,780 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=5, result=Life)
+2022-12-22 15:55:34,780 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=8, result=Death)
+2022-12-22 15:55:48,739 68
+2022-12-22 15:55:48,739 -----------------
+2022-12-22 15:55:49,881 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=5, result=Life)
+2022-12-22 15:55:49,881 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=8, result=Death)
+2022-12-22 15:55:49,881 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=0, result=Life)
+2022-12-22 15:55:49,881 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=3, result=Life)
+2022-12-22 15:56:04,077 68
+2022-12-22 15:56:04,078 -----------------

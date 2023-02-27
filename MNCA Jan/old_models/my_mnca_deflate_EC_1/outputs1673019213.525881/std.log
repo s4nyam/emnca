@@ -1,0 +1,1184 @@
+2023-01-06 16:33:06,112 -----------------
+2023-01-06 16:33:06,112 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=2, result=Life)
+2023-01-06 16:33:06,112 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=7, result=Life)
+2023-01-06 16:33:06,112 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=3, result=Death)
+2023-01-06 16:33:06,112 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=5, result=Life)
+2023-01-06 16:33:06,378 -----------------
+2023-01-06 16:33:06,378 76
+2023-01-06 16:33:06,379 STREAM b'IHDR' 16 13
+2023-01-06 16:33:06,379 STREAM b'IDAT' 41 56325
+2023-01-06 16:33:06,381 STREAM b'IHDR' 16 13
+2023-01-06 16:33:06,381 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:06,738 -----------------
+2023-01-06 16:33:06,738 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=3, result=Death)
+2023-01-06 16:33:06,738 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=7, result=Life)
+2023-01-06 16:33:06,738 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=6, result=Life)
+2023-01-06 16:33:06,738 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=0, result=Life)
+2023-01-06 16:33:06,989 -----------------
+2023-01-06 16:33:06,989 60
+2023-01-06 16:33:06,989 STREAM b'IHDR' 16 13
+2023-01-06 16:33:06,989 STREAM b'IDAT' 41 6856
+2023-01-06 16:33:06,990 STREAM b'IHDR' 16 13
+2023-01-06 16:33:06,990 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:07,283 -----------------
+2023-01-06 16:33:07,283 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=2, result=Life)
+2023-01-06 16:33:07,283 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=4, result=Death)
+2023-01-06 16:33:07,283 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=8, result=Death)
+2023-01-06 16:33:07,283 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=5, result=Life)
+2023-01-06 16:33:07,533 -----------------
+2023-01-06 16:33:07,533 60
+2023-01-06 16:33:07,533 STREAM b'IHDR' 16 13
+2023-01-06 16:33:07,533 STREAM b'IDAT' 41 6391
+2023-01-06 16:33:07,534 STREAM b'IHDR' 16 13
+2023-01-06 16:33:07,534 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:07,828 -----------------
+2023-01-06 16:33:07,828 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=5, result=Death)
+2023-01-06 16:33:07,828 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=0, result=Life)
+2023-01-06 16:33:07,828 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=7, result=Death)
+2023-01-06 16:33:07,828 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=5, result=Death)
+2023-01-06 16:33:08,084 -----------------
+2023-01-06 16:33:08,084 60
+2023-01-06 16:33:08,085 STREAM b'IHDR' 16 13
+2023-01-06 16:33:08,085 STREAM b'IDAT' 41 7478
+2023-01-06 16:33:08,087 STREAM b'IHDR' 16 13
+2023-01-06 16:33:08,087 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:08,384 -----------------
+2023-01-06 16:33:08,384 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=6, result=Life)
+2023-01-06 16:33:08,385 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=0, result=Death)
+2023-01-06 16:33:08,385 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=7, result=Life)
+2023-01-06 16:33:08,385 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=7, result=Death)
+2023-01-06 16:33:08,635 -----------------
+2023-01-06 16:33:08,636 65
+2023-01-06 16:33:08,636 STREAM b'IHDR' 16 13
+2023-01-06 16:33:08,636 STREAM b'IDAT' 41 13040
+2023-01-06 16:33:08,637 STREAM b'IHDR' 16 13
+2023-01-06 16:33:08,637 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:08,943 -----------------
+2023-01-06 16:33:08,943 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=3, result=Life)
+2023-01-06 16:33:08,943 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=0, result=Death)
+2023-01-06 16:33:08,943 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=2, result=Life)
+2023-01-06 16:33:08,943 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=8, result=Life)
+2023-01-06 16:33:09,188 -----------------
+2023-01-06 16:33:09,188 60
+2023-01-06 16:33:09,188 STREAM b'IHDR' 16 13
+2023-01-06 16:33:09,188 STREAM b'IDAT' 41 11574
+2023-01-06 16:33:09,189 STREAM b'IHDR' 16 13
+2023-01-06 16:33:09,189 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:09,487 -----------------
+2023-01-06 16:33:09,487 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=0, result=Life)
+2023-01-06 16:33:09,487 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=7, result=Death)
+2023-01-06 16:33:09,488 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=6, result=Life)
+2023-01-06 16:33:09,488 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=4, result=Life)
+2023-01-06 16:33:09,737 -----------------
+2023-01-06 16:33:09,737 60
+2023-01-06 16:33:09,737 STREAM b'IHDR' 16 13
+2023-01-06 16:33:09,737 STREAM b'IDAT' 41 7373
+2023-01-06 16:33:09,738 STREAM b'IHDR' 16 13
+2023-01-06 16:33:09,738 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:10,042 -----------------
+2023-01-06 16:33:10,042 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=1, result=Death)
+2023-01-06 16:33:10,042 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=3, result=Life)
+2023-01-06 16:33:10,042 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=1, result=Death)
+2023-01-06 16:33:10,042 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=8, result=Life)
+2023-01-06 16:33:10,290 -----------------
+2023-01-06 16:33:10,290 60
+2023-01-06 16:33:10,290 STREAM b'IHDR' 16 13
+2023-01-06 16:33:10,290 STREAM b'IDAT' 41 10455
+2023-01-06 16:33:10,291 STREAM b'IHDR' 16 13
+2023-01-06 16:33:10,291 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:10,593 -----------------
+2023-01-06 16:33:10,593 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=8, result=Death)
+2023-01-06 16:33:10,593 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=4, result=Life)
+2023-01-06 16:33:10,593 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=1, result=Death)
+2023-01-06 16:33:10,593 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=0, result=Life)
+2023-01-06 16:33:10,839 -----------------
+2023-01-06 16:33:10,839 60
+2023-01-06 16:33:10,839 STREAM b'IHDR' 16 13
+2023-01-06 16:33:10,839 STREAM b'IDAT' 41 6692
+2023-01-06 16:33:10,840 STREAM b'IHDR' 16 13
+2023-01-06 16:33:10,840 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:11,138 -----------------
+2023-01-06 16:33:11,138 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=2, result=Life)
+2023-01-06 16:33:11,138 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=5, result=Life)
+2023-01-06 16:33:11,138 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=5, result=Death)
+2023-01-06 16:33:11,138 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=0, result=Life)
+2023-01-06 16:33:11,386 -----------------
+2023-01-06 16:33:11,386 60
+2023-01-06 16:33:11,386 STREAM b'IHDR' 16 13
+2023-01-06 16:33:11,386 STREAM b'IDAT' 41 7455
+2023-01-06 16:33:11,387 STREAM b'IHDR' 16 13
+2023-01-06 16:33:11,387 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:11,677 -----------------
+2023-01-06 16:33:11,677 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=6, result=Death)
+2023-01-06 16:33:11,677 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=8, result=Death)
+2023-01-06 16:33:11,677 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=3, result=Death)
+2023-01-06 16:33:11,677 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=1, result=Life)
+2023-01-06 16:33:11,922 -----------------
+2023-01-06 16:33:11,922 60
+2023-01-06 16:33:11,923 STREAM b'IHDR' 16 13
+2023-01-06 16:33:11,923 STREAM b'IDAT' 41 5603
+2023-01-06 16:33:11,924 STREAM b'IHDR' 16 13
+2023-01-06 16:33:11,924 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:12,234 -----------------
+2023-01-06 16:33:12,235 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=5, result=Death)
+2023-01-06 16:33:12,235 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=1, result=Life)
+2023-01-06 16:33:12,235 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=1, result=Death)
+2023-01-06 16:33:12,235 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=3, result=Life)
+2023-01-06 16:33:12,482 -----------------
+2023-01-06 16:33:12,482 60
+2023-01-06 16:33:12,482 STREAM b'IHDR' 16 13
+2023-01-06 16:33:12,482 STREAM b'IDAT' 41 7556
+2023-01-06 16:33:12,483 STREAM b'IHDR' 16 13
+2023-01-06 16:33:12,483 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:12,780 -----------------
+2023-01-06 16:33:12,780 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=8, result=Death)
+2023-01-06 16:33:12,780 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=3, result=Life)
+2023-01-06 16:33:12,780 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=0, result=Death)
+2023-01-06 16:33:12,781 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=2, result=Life)
+2023-01-06 16:33:13,026 -----------------
+2023-01-06 16:33:13,026 60
+2023-01-06 16:33:13,026 STREAM b'IHDR' 16 13
+2023-01-06 16:33:13,026 STREAM b'IDAT' 41 7552
+2023-01-06 16:33:13,027 STREAM b'IHDR' 16 13
+2023-01-06 16:33:13,028 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:13,327 -----------------
+2023-01-06 16:33:13,327 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=6, result=Death)
+2023-01-06 16:33:13,327 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=0, result=Life)
+2023-01-06 16:33:13,327 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=3, result=Death)
+2023-01-06 16:33:13,327 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=8, result=Death)
+2023-01-06 16:33:13,577 -----------------
+2023-01-06 16:33:13,577 60
+2023-01-06 16:33:13,577 STREAM b'IHDR' 16 13
+2023-01-06 16:33:13,577 STREAM b'IDAT' 41 7555
+2023-01-06 16:33:13,579 STREAM b'IHDR' 16 13
+2023-01-06 16:33:13,579 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:13,877 -----------------
+2023-01-06 16:33:13,877 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=0, result=Death)
+2023-01-06 16:33:13,878 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=6, result=Life)
+2023-01-06 16:33:13,878 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=1, result=Death)
+2023-01-06 16:33:13,878 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=0, result=Life)
+2023-01-06 16:33:14,126 -----------------
+2023-01-06 16:33:14,126 62
+2023-01-06 16:33:14,126 STREAM b'IHDR' 16 13
+2023-01-06 16:33:14,126 STREAM b'IDAT' 41 7345
+2023-01-06 16:33:14,128 STREAM b'IHDR' 16 13
+2023-01-06 16:33:14,128 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:14,438 -----------------
+2023-01-06 16:33:14,438 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=2, result=Death)
+2023-01-06 16:33:14,438 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=7, result=Death)
+2023-01-06 16:33:14,438 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=2, result=Death)
+2023-01-06 16:33:14,438 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=6, result=Death)
+2023-01-06 16:33:14,687 -----------------
+2023-01-06 16:33:14,687 62
+2023-01-06 16:33:14,688 STREAM b'IHDR' 16 13
+2023-01-06 16:33:14,688 STREAM b'IDAT' 41 7185
+2023-01-06 16:33:14,690 STREAM b'IHDR' 16 13
+2023-01-06 16:33:14,690 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:14,997 -----------------
+2023-01-06 16:33:14,997 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=3, result=Death)
+2023-01-06 16:33:14,998 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=1, result=Life)
+2023-01-06 16:33:14,998 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=1, result=Death)
+2023-01-06 16:33:14,998 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=2, result=Death)
+2023-01-06 16:33:15,249 -----------------
+2023-01-06 16:33:15,249 62
+2023-01-06 16:33:15,250 STREAM b'IHDR' 16 13
+2023-01-06 16:33:15,250 STREAM b'IDAT' 41 8825
+2023-01-06 16:33:15,251 STREAM b'IHDR' 16 13
+2023-01-06 16:33:15,251 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:15,551 -----------------
+2023-01-06 16:33:15,552 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=7, result=Death)
+2023-01-06 16:33:15,552 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=6, result=Death)
+2023-01-06 16:33:15,552 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=7, result=Life)
+2023-01-06 16:33:15,552 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=5, result=Death)
+2023-01-06 16:33:15,799 -----------------
+2023-01-06 16:33:15,800 62
+2023-01-06 16:33:15,800 STREAM b'IHDR' 16 13
+2023-01-06 16:33:15,800 STREAM b'IDAT' 41 8825
+2023-01-06 16:33:15,801 STREAM b'IHDR' 16 13
+2023-01-06 16:33:15,801 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:16,111 -----------------
+2023-01-06 16:33:16,111 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=4, result=Life)
+2023-01-06 16:33:16,111 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=1, result=Death)
+2023-01-06 16:33:16,111 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=7, result=Death)
+2023-01-06 16:33:16,111 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=4, result=Death)
+2023-01-06 16:33:16,363 -----------------
+2023-01-06 16:33:16,363 62
+2023-01-06 16:33:16,364 STREAM b'IHDR' 16 13
+2023-01-06 16:33:16,364 STREAM b'IDAT' 41 11665
+2023-01-06 16:33:16,366 STREAM b'IHDR' 16 13
+2023-01-06 16:33:16,366 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:16,661 -----------------
+2023-01-06 16:33:16,662 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=1, result=Death)
+2023-01-06 16:33:16,662 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=7, result=Death)
+2023-01-06 16:33:16,662 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=7, result=Life)
+2023-01-06 16:33:16,662 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=6, result=Life)
+2023-01-06 16:33:16,909 -----------------
+2023-01-06 16:33:16,909 67
+2023-01-06 16:33:16,910 STREAM b'IHDR' 16 13
+2023-01-06 16:33:16,910 STREAM b'IDAT' 41 11592
+2023-01-06 16:33:16,911 STREAM b'IHDR' 16 13
+2023-01-06 16:33:16,911 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:17,224 -----------------
+2023-01-06 16:33:17,224 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=1, result=Death)
+2023-01-06 16:33:17,224 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=7, result=Death)
+2023-01-06 16:33:17,224 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=7, result=Life)
+2023-01-06 16:33:17,224 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=6, result=Life)
+2023-01-06 16:33:17,487 -----------------
+2023-01-06 16:33:17,487 70
+2023-01-06 16:33:17,487 STREAM b'IHDR' 16 13
+2023-01-06 16:33:17,487 STREAM b'IDAT' 41 18095
+2023-01-06 16:33:17,489 STREAM b'IHDR' 16 13
+2023-01-06 16:33:17,489 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:17,802 -----------------
+2023-01-06 16:33:17,802 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=7, result=Life)
+2023-01-06 16:33:17,802 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=4, result=Death)
+2023-01-06 16:33:17,802 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=0, result=Life)
+2023-01-06 16:33:17,802 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=7, result=Death)
+2023-01-06 16:33:18,052 -----------------
+2023-01-06 16:33:18,052 70
+2023-01-06 16:33:18,052 STREAM b'IHDR' 16 13
+2023-01-06 16:33:18,052 STREAM b'IDAT' 41 20598
+2023-01-06 16:33:18,054 STREAM b'IHDR' 16 13
+2023-01-06 16:33:18,054 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:18,364 -----------------
+2023-01-06 16:33:18,365 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=7, result=Life)
+2023-01-06 16:33:18,365 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=4, result=Death)
+2023-01-06 16:33:18,365 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=0, result=Life)
+2023-01-06 16:33:18,365 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=7, result=Death)
+2023-01-06 16:33:18,617 -----------------
+2023-01-06 16:33:18,617 67
+2023-01-06 16:33:18,618 STREAM b'IHDR' 16 13
+2023-01-06 16:33:18,618 STREAM b'IDAT' 41 15759
+2023-01-06 16:33:18,620 STREAM b'IHDR' 16 13
+2023-01-06 16:33:18,620 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:18,922 -----------------
+2023-01-06 16:33:18,922 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=8, result=Death)
+2023-01-06 16:33:18,922 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=4, result=Life)
+2023-01-06 16:33:18,922 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=3, result=Death)
+2023-01-06 16:33:18,922 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=4, result=Life)
+2023-01-06 16:33:19,168 -----------------
+2023-01-06 16:33:19,168 68
+2023-01-06 16:33:19,169 STREAM b'IHDR' 16 13
+2023-01-06 16:33:19,169 STREAM b'IDAT' 41 11372
+2023-01-06 16:33:19,170 STREAM b'IHDR' 16 13
+2023-01-06 16:33:19,170 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:19,484 -----------------
+2023-01-06 16:33:19,484 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=8, result=Death)
+2023-01-06 16:33:19,484 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=4, result=Life)
+2023-01-06 16:33:19,484 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=3, result=Death)
+2023-01-06 16:33:19,485 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=4, result=Life)
+2023-01-06 16:33:19,737 -----------------
+2023-01-06 16:33:19,737 75
+2023-01-06 16:33:19,738 STREAM b'IHDR' 16 13
+2023-01-06 16:33:19,738 STREAM b'IDAT' 41 14966
+2023-01-06 16:33:19,740 STREAM b'IHDR' 16 13
+2023-01-06 16:33:19,740 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:20,053 -----------------
+2023-01-06 16:33:20,053 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=5, result=Life)
+2023-01-06 16:33:20,053 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=0, result=Life)
+2023-01-06 16:33:20,053 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=6, result=Life)
+2023-01-06 16:33:20,053 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=5, result=Death)
+2023-01-06 16:33:20,308 -----------------
+2023-01-06 16:33:20,308 74
+2023-01-06 16:33:20,308 STREAM b'IHDR' 16 13
+2023-01-06 16:33:20,308 STREAM b'IDAT' 41 18901
+2023-01-06 16:33:20,310 STREAM b'IHDR' 16 13
+2023-01-06 16:33:20,311 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:20,617 -----------------
+2023-01-06 16:33:20,617 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=0, result=Life)
+2023-01-06 16:33:20,617 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=1, result=Death)
+2023-01-06 16:33:20,617 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=5, result=Death)
+2023-01-06 16:33:20,617 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=4, result=Death)
+2023-01-06 16:33:20,880 -----------------
+2023-01-06 16:33:20,880 69
+2023-01-06 16:33:20,880 STREAM b'IHDR' 16 13
+2023-01-06 16:33:20,880 STREAM b'IDAT' 41 19025
+2023-01-06 16:33:20,882 STREAM b'IHDR' 16 13
+2023-01-06 16:33:20,882 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:21,189 -----------------
+2023-01-06 16:33:21,189 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=2, result=Death)
+2023-01-06 16:33:21,189 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=7, result=Death)
+2023-01-06 16:33:21,189 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=3, result=Death)
+2023-01-06 16:33:21,189 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=5, result=Life)
+2023-01-06 16:33:21,452 -----------------
+2023-01-06 16:33:21,452 66
+2023-01-06 16:33:21,452 STREAM b'IHDR' 16 13
+2023-01-06 16:33:21,453 STREAM b'IDAT' 41 18291
+2023-01-06 16:33:21,454 STREAM b'IHDR' 16 13
+2023-01-06 16:33:21,454 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:21,760 -----------------
+2023-01-06 16:33:21,761 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=7, result=Life)
+2023-01-06 16:33:21,761 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=1, result=Life)
+2023-01-06 16:33:21,761 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=6, result=Life)
+2023-01-06 16:33:21,761 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=4, result=Life)
+2023-01-06 16:33:22,014 -----------------
+2023-01-06 16:33:22,014 74
+2023-01-06 16:33:22,014 STREAM b'IHDR' 16 13
+2023-01-06 16:33:22,015 STREAM b'IDAT' 41 20023
+2023-01-06 16:33:22,016 STREAM b'IHDR' 16 13
+2023-01-06 16:33:22,016 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:22,320 -----------------
+2023-01-06 16:33:22,320 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=4, result=Death)
+2023-01-06 16:33:22,320 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=8, result=Death)
+2023-01-06 16:33:22,320 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=6, result=Life)
+2023-01-06 16:33:22,320 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=7, result=Death)
+2023-01-06 16:33:22,565 -----------------
+2023-01-06 16:33:22,565 64
+2023-01-06 16:33:22,565 STREAM b'IHDR' 16 13
+2023-01-06 16:33:22,565 STREAM b'IDAT' 41 14371
+2023-01-06 16:33:22,566 STREAM b'IHDR' 16 13
+2023-01-06 16:33:22,567 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:22,877 -----------------
+2023-01-06 16:33:22,877 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=6, result=Death)
+2023-01-06 16:33:22,877 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=6, result=Death)
+2023-01-06 16:33:22,877 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=6, result=Life)
+2023-01-06 16:33:22,877 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=2, result=Death)
+2023-01-06 16:33:23,146 -----------------
+2023-01-06 16:33:23,146 77
+2023-01-06 16:33:23,146 STREAM b'IHDR' 16 13
+2023-01-06 16:33:23,146 STREAM b'IDAT' 41 24123
+2023-01-06 16:33:23,148 STREAM b'IHDR' 16 13
+2023-01-06 16:33:23,148 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:23,464 -----------------
+2023-01-06 16:33:23,464 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=7, result=Life)
+2023-01-06 16:33:23,464 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=1, result=Death)
+2023-01-06 16:33:23,464 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=3, result=Death)
+2023-01-06 16:33:23,465 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=5, result=Death)
+2023-01-06 16:33:23,713 -----------------
+2023-01-06 16:33:23,714 75
+2023-01-06 16:33:23,714 STREAM b'IHDR' 16 13
+2023-01-06 16:33:23,714 STREAM b'IDAT' 41 24315
+2023-01-06 16:33:23,716 STREAM b'IHDR' 16 13
+2023-01-06 16:33:23,716 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:24,031 -----------------
+2023-01-06 16:33:24,032 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=3, result=Life)
+2023-01-06 16:33:24,032 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=5, result=Death)
+2023-01-06 16:33:24,032 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=0, result=Death)
+2023-01-06 16:33:24,032 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=4, result=Life)
+2023-01-06 16:33:24,281 -----------------
+2023-01-06 16:33:24,281 69
+2023-01-06 16:33:24,281 STREAM b'IHDR' 16 13
+2023-01-06 16:33:24,281 STREAM b'IDAT' 41 16647
+2023-01-06 16:33:24,282 STREAM b'IHDR' 16 13
+2023-01-06 16:33:24,283 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:24,593 -----------------
+2023-01-06 16:33:24,593 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=3, result=Life)
+2023-01-06 16:33:24,593 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=1, result=Death)
+2023-01-06 16:33:24,593 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=4, result=Life)
+2023-01-06 16:33:24,593 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=0, result=Death)
+2023-01-06 16:33:24,839 -----------------
+2023-01-06 16:33:24,839 69
+2023-01-06 16:33:24,839 STREAM b'IHDR' 16 13
+2023-01-06 16:33:24,839 STREAM b'IDAT' 41 16647
+2023-01-06 16:33:24,840 STREAM b'IHDR' 16 13
+2023-01-06 16:33:24,840 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:25,152 -----------------
+2023-01-06 16:33:25,152 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=7, result=Life)
+2023-01-06 16:33:25,152 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=3, result=Death)
+2023-01-06 16:33:25,152 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=1, result=Life)
+2023-01-06 16:33:25,152 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=5, result=Life)
+2023-01-06 16:33:25,399 -----------------
+2023-01-06 16:33:25,399 69
+2023-01-06 16:33:25,399 STREAM b'IHDR' 16 13
+2023-01-06 16:33:25,399 STREAM b'IDAT' 41 16647
+2023-01-06 16:33:25,401 STREAM b'IHDR' 16 13
+2023-01-06 16:33:25,401 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:25,716 -----------------
+2023-01-06 16:33:25,716 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=7, result=Life)
+2023-01-06 16:33:25,716 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=3, result=Life)
+2023-01-06 16:33:25,716 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=7, result=Life)
+2023-01-06 16:33:25,716 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=5, result=Death)
+2023-01-06 16:33:25,964 -----------------
+2023-01-06 16:33:25,964 69
+2023-01-06 16:33:25,964 STREAM b'IHDR' 16 13
+2023-01-06 16:33:25,964 STREAM b'IDAT' 41 16647
+2023-01-06 16:33:25,966 STREAM b'IHDR' 16 13
+2023-01-06 16:33:25,966 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:26,275 -----------------
+2023-01-06 16:33:26,275 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=7, result=Life)
+2023-01-06 16:33:26,275 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=7, result=Life)
+2023-01-06 16:33:26,275 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=4, result=Life)
+2023-01-06 16:33:26,275 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=7, result=Life)
+2023-01-06 16:33:26,526 -----------------
+2023-01-06 16:33:26,527 64
+2023-01-06 16:33:26,527 STREAM b'IHDR' 16 13
+2023-01-06 16:33:26,527 STREAM b'IDAT' 41 12284
+2023-01-06 16:33:26,528 STREAM b'IHDR' 16 13
+2023-01-06 16:33:26,528 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:26,831 -----------------
+2023-01-06 16:33:26,831 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=0, result=Death)
+2023-01-06 16:33:26,831 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=5, result=Life)
+2023-01-06 16:33:26,831 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=0, result=Life)
+2023-01-06 16:33:26,831 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=3, result=Death)
+2023-01-06 16:33:27,078 -----------------
+2023-01-06 16:33:27,078 64
+2023-01-06 16:33:27,079 STREAM b'IHDR' 16 13
+2023-01-06 16:33:27,079 STREAM b'IDAT' 41 2003
+2023-01-06 16:33:27,079 STREAM b'IHDR' 16 13
+2023-01-06 16:33:27,080 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:27,378 -----------------
+2023-01-06 16:33:27,379 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=8, result=Life)
+2023-01-06 16:33:27,379 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=5, result=Death)
+2023-01-06 16:33:27,379 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=1, result=Death)
+2023-01-06 16:33:27,379 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=2, result=Death)
+2023-01-06 16:33:27,622 -----------------
+2023-01-06 16:33:27,623 64
+2023-01-06 16:33:27,623 STREAM b'IHDR' 16 13
+2023-01-06 16:33:27,623 STREAM b'IDAT' 41 2003
+2023-01-06 16:33:27,624 STREAM b'IHDR' 16 13
+2023-01-06 16:33:27,624 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:27,926 -----------------
+2023-01-06 16:33:27,926 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=7, result=Death)
+2023-01-06 16:33:27,926 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=1, result=Life)
+2023-01-06 16:33:27,926 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=7, result=Death)
+2023-01-06 16:33:27,926 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=2, result=Life)
+2023-01-06 16:33:28,178 -----------------
+2023-01-06 16:33:28,178 60
+2023-01-06 16:33:28,178 STREAM b'IHDR' 16 13
+2023-01-06 16:33:28,178 STREAM b'IDAT' 41 1154
+2023-01-06 16:33:28,179 STREAM b'IHDR' 16 13
+2023-01-06 16:33:28,179 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:28,486 -----------------
+2023-01-06 16:33:28,486 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=0, result=Death)
+2023-01-06 16:33:28,486 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=1, result=Life)
+2023-01-06 16:33:28,486 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=7, result=Death)
+2023-01-06 16:33:28,486 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=2, result=Death)
+2023-01-06 16:33:28,738 -----------------
+2023-01-06 16:33:28,738 60
+2023-01-06 16:33:28,738 STREAM b'IHDR' 16 13
+2023-01-06 16:33:28,738 STREAM b'IDAT' 41 1154
+2023-01-06 16:33:28,739 STREAM b'IHDR' 16 13
+2023-01-06 16:33:28,739 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:29,051 -----------------
+2023-01-06 16:33:29,052 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=3, result=Life)
+2023-01-06 16:33:29,052 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=1, result=Life)
+2023-01-06 16:33:29,052 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=8, result=Life)
+2023-01-06 16:33:29,052 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=5, result=Life)
+2023-01-06 16:33:29,309 -----------------
+2023-01-06 16:33:29,310 60
+2023-01-06 16:33:29,310 STREAM b'IHDR' 16 13
+2023-01-06 16:33:29,310 STREAM b'IDAT' 41 1154
+2023-01-06 16:33:29,311 STREAM b'IHDR' 16 13
+2023-01-06 16:33:29,311 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:29,613 -----------------
+2023-01-06 16:33:29,613 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=5, result=Death)
+2023-01-06 16:33:29,613 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=2, result=Death)
+2023-01-06 16:33:29,613 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=4, result=Life)
+2023-01-06 16:33:29,613 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=1, result=Death)
+2023-01-06 16:33:29,868 -----------------
+2023-01-06 16:33:29,869 60
+2023-01-06 16:33:29,869 STREAM b'IHDR' 16 13
+2023-01-06 16:33:29,869 STREAM b'IDAT' 41 1154
+2023-01-06 16:33:29,870 STREAM b'IHDR' 16 13
+2023-01-06 16:33:29,870 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:30,181 -----------------
+2023-01-06 16:33:30,181 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=2, result=Death)
+2023-01-06 16:33:30,181 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=7, result=Life)
+2023-01-06 16:33:30,181 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=5, result=Life)
+2023-01-06 16:33:30,181 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=4, result=Death)
+2023-01-06 16:33:30,434 -----------------
+2023-01-06 16:33:30,434 60
+2023-01-06 16:33:30,434 STREAM b'IHDR' 16 13
+2023-01-06 16:33:30,434 STREAM b'IDAT' 41 1154
+2023-01-06 16:33:30,435 STREAM b'IHDR' 16 13
+2023-01-06 16:33:30,435 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:30,742 -----------------
+2023-01-06 16:33:30,742 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=1, result=Death)
+2023-01-06 16:33:30,742 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=3, result=Life)
+2023-01-06 16:33:30,742 mask='9_neighbor.txt', acts_on='Both', lower_limit=7, upper_limit=1, result=Life)
+2023-01-06 16:33:30,742 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=5, result=Life)
+2023-01-06 16:33:31,000 -----------------
+2023-01-06 16:33:31,000 60
+2023-01-06 16:33:31,000 STREAM b'IHDR' 16 13
+2023-01-06 16:33:31,000 STREAM b'IDAT' 41 1154
+2023-01-06 16:33:31,001 STREAM b'IHDR' 16 13
+2023-01-06 16:33:31,001 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:31,307 -----------------
+2023-01-06 16:33:31,307 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=1, result=Life)
+2023-01-06 16:33:31,307 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=6, result=Life)
+2023-01-06 16:33:31,308 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=8, result=Death)
+2023-01-06 16:33:31,308 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=4, result=Life)
+2023-01-06 16:33:31,578 -----------------
+2023-01-06 16:33:31,578 60
+2023-01-06 16:33:31,579 STREAM b'IHDR' 16 13
+2023-01-06 16:33:31,579 STREAM b'IDAT' 41 1154
+2023-01-06 16:33:31,580 STREAM b'IHDR' 16 13
+2023-01-06 16:33:31,580 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:31,879 -----------------
+2023-01-06 16:33:31,879 mask='9_neighbor.txt', acts_on='Both', lower_limit=0, upper_limit=7, result=Life)
+2023-01-06 16:33:31,879 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=3, result=Death)
+2023-01-06 16:33:31,879 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=6, result=Death)
+2023-01-06 16:33:31,879 mask='9_neighbor.txt', acts_on='Both', lower_limit=3, upper_limit=5, result=Life)
+2023-01-06 16:33:32,129 -----------------
+2023-01-06 16:33:32,130 60
+2023-01-06 16:33:32,130 STREAM b'IHDR' 16 13
+2023-01-06 16:33:32,130 STREAM b'IDAT' 41 1154
+2023-01-06 16:33:32,131 STREAM b'IHDR' 16 13
+2023-01-06 16:33:32,131 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:32,421 -----------------
+2023-01-06 16:33:32,421 mask='9_neighbor.txt', acts_on='Both', lower_limit=2, upper_limit=5, result=Death)
+2023-01-06 16:33:32,421 mask='9_neighbor.txt', acts_on='Both', lower_limit=4, upper_limit=1, result=Death)
+2023-01-06 16:33:32,421 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=8, result=Life)
+2023-01-06 16:33:32,421 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=8, result=Life)
+2023-01-06 16:33:32,669 -----------------
+2023-01-06 16:33:32,669 60
+2023-01-06 16:33:32,669 STREAM b'IHDR' 16 13
+2023-01-06 16:33:32,669 STREAM b'IDAT' 41 1154
+2023-01-06 16:33:32,670 STREAM b'IHDR' 16 13
+2023-01-06 16:33:32,670 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:32,975 -----------------
+2023-01-06 16:33:32,975 mask='9_neighbor.txt', acts_on='Both', lower_limit=1, upper_limit=1, result=Death)
+2023-01-06 16:33:32,975 mask='9_neighbor.txt', acts_on='Both', lower_limit=8, upper_limit=2, result=Life)
+2023-01-06 16:33:32,976 mask='9_neighbor.txt', acts_on='Both', lower_limit=5, upper_limit=2, result=Life)
+2023-01-06 16:33:32,976 mask='9_neighbor.txt', acts_on='Both', lower_limit=6, upper_limit=6, result=Life)
+2023-01-06 16:33:33,228 -----------------
+2023-01-06 16:33:33,228 60
+2023-01-06 16:33:33,228 STREAM b'IHDR' 16 13
+2023-01-06 16:33:33,228 STREAM b'IDAT' 41 1154
+2023-01-06 16:33:33,229 STREAM b'IHDR' 16 13
+2023-01-06 16:33:33,229 STREAM b'IDAT' 41 1216
+2023-01-06 16:33:34,263 Loaded backend qtagg version 6.4.1.
+2023-01-06 16:33:34,273 findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0.
+2023-01-06 16:33:34,273 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymBol.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,273 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,273 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Oblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,273 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBolIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,273 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymReg.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,274 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/cmss10.ttf', name='cmss10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,274 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 0.05
+2023-01-06 16:33:34,274 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymReg.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,274 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/cmb10.ttf', name='cmb10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,274 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymBol.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,274 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/cmex10.ttf', name='cmex10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,274 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBolIta.ttf', name='STIXGeneral', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,274 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Italic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,274 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Bold.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,274 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Bold.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,274 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-BoldItalic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,274 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-BoldOblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,274 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/cmtt10.ttf', name='cmtt10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,274 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFiveSymReg.ttf', name='STIXSizeFiveSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,274 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralItalic.ttf', name='STIXGeneral', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,274 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,274 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/cmmi10.ttf', name='cmmi10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,274 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUni.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,274 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-BoldOblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 1.335
+2023-01-06 16:33:34,274 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBol.ttf', name='STIXGeneral', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,274 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,274 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerifDisplay.ttf', name='DejaVu Serif Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,274 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymReg.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,274 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansDisplay.ttf', name='DejaVu Sans Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,274 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/cmsy10.ttf', name='cmsy10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,274 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Oblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 1.05
+2023-01-06 16:33:34,275 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymReg.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,275 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/cmr10.ttf', name='cmr10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,275 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneral.ttf', name='STIXGeneral', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,275 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymBol.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,275 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymBol.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,275 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBol.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,275 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 0.33499999999999996
+2023-01-06 16:33:34,275 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/kacst/KacstNaskh.ttf', name='KacstNaskh', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,275 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/D050000L.otf', name='D050000L', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,275 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-yrsa-rasa/Rasa-Medium.ttf', name='Rasa', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,275 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Norasi-Italic.ttf', name='Norasi', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,275 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/malayalam/Rachana-Bold.ttf', name='Rachana', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,275 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/Z003-MediumItalic.otf', name='Z003', style='italic', variant='normal', weight=500, stretch='normal', size='scalable')) = 11.145
+2023-01-06 16:33:34,275 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-Italic.ttf', name='Yrsa', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,275 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/malayalam/Gayathri-Regular.otf', name='Gayathri', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,275 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/TlwgTypo-Bold.ttf', name='Tlwg Typo', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,275 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Purisa-BoldOblique.ttf', name='Purisa', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,275 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Garuda-BoldOblique.ttf', name='Garuda', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,275 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-yrsa-rasa/Rasa-Light.ttf', name='Rasa', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,275 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWGothic-Book.otf', name='URW Gothic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,275 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-Regular.ttf', name='Yrsa', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,275 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Norasi-Oblique.ttf', name='Norasi', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,276 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSerif-Italic.ttf', name='Liberation Serif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,276 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-BI.ttf', name='Ubuntu', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,276 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWGothic-BookOblique.otf', name='URW Gothic', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,276 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWBookman-Demi.otf', name='URW Bookman', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2023-01-06 16:33:34,276 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/P052-Roman.otf', name='P052', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,276 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/kacst/KacstLetter.ttf', name='KacstLetter', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,276 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/C059-Roman.otf', name='C059', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,276 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/SreeKrushnadevaraya.ttf', name='Sree Krushnadevaraya', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,276 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Kinnari-BoldOblique.ttf', name='Kinnari', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,276 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-MediumItalic.ttf', name='Yrsa', style='italic', variant='normal', weight=500, stretch='normal', size='scalable')) = 11.145
+2023-01-06 16:33:34,276 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/Nakula/nakula.ttf', name='Nakula', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,276 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Laksaman-BoldItalic.ttf', name='Laksaman', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,276 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationMono-Bold.ttf', name='Liberation Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,276 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSerif-Bold.ttf', name='Liberation Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,276 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSans-BoldItalic.otf', name='Nimbus Sans', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,276 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,276 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationSerif-BoldItalic.ttf', name='Liberation Serif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,276 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusRoman-BoldItalic.otf', name='Nimbus Roman', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,276 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSans-BoldItalic.ttf', name='Liberation Sans', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,276 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-beng-extra/Ani.ttf', name='Ani', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,276 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/Gubbi/Gubbi.ttf', name='Gubbi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,276 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/lohit-punjabi/Lohit-Gurmukhi.ttf', name='Lohit Gurmukhi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,276 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-LI.ttf', name='Ubuntu', style='italic', variant='normal', weight=300, stretch='normal', size='scalable')) = 11.145
+2023-01-06 16:33:34,276 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/TenaliRamakrishna-Regular.ttf', name='TenaliRamakrishna', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,277 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-SemiBoldItalic.ttf', name='Yrsa', style='italic', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+2023-01-06 16:33:34,277 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/malayalam/Karumbi-Regular.ttf', name='Karumbi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,277 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf', name='Ubuntu', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,277 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/kacst/KacstQurn.ttf', name='KacstQurn', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,277 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-beng-extra/MitraMono.ttf', name='Mitra ', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,277 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/lohit-telugu/Lohit-Telugu.ttf', name='Lohit Telugu', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,277 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Loma-Bold.ttf', name='Loma', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,277 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/Ponnala.ttf', name='Ponnala', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,277 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationMono-BoldItalic.ttf', name='Liberation Mono', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,277 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ttf-khmeros-core/KhmerOS.ttf', name='Khmer OS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,277 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/TimmanaRegular.ttf', name='Timmana', style='normal', variant='normal', weight=900, stretch='normal', size='scalable')) = 10.525
+2023-01-06 16:33:34,277 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/lohit-devanagari/Lohit-Devanagari.ttf', name='Lohit Devanagari', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,277 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSansNarrow-BoldOblique.otf', name='Nimbus Sans Narrow', style='oblique', variant='normal', weight=700, stretch='condensed', size='scalable')) = 11.535
+2023-01-06 16:33:34,277 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-M.ttf', name='Ubuntu', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,277 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Loma.ttf', name='Loma', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,277 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Sawasdee-BoldOblique.ttf', name='Sawasdee', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,277 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationSans-Bold.ttf', name='Liberation Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,277 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/malayalam/Uroob-Regular.ttf', name='Uroob', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,277 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusRoman-Italic.otf', name='Nimbus Roman', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,277 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWGothic-Demi.otf', name='URW Gothic', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2023-01-06 16:33:34,277 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Purisa-Bold.ttf', name='Purisa', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,278 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-deva-extra/samanata.ttf', name='Samanata', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,278 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-MI.ttf', name='Ubuntu', style='italic', variant='normal', weight=500, stretch='normal', size='scalable')) = 11.145
+2023-01-06 16:33:34,278 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/malayalam/Meera-Regular.ttf', name='Meera', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,278 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-RI.ttf', name='Ubuntu', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,278 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc', name='Noto Sans CJK JP', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,278 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-orya-extra/utkal.ttf', name='ori1Uni', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,278 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/NTR.ttf', name='NTR', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,278 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/Mandali-Regular.ttf', name='Mandali', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,278 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-L.ttf', name='Ubuntu', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,278 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/kacst/KacstScreen.ttf', name='KacstScreen', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,278 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/lohit-oriya/Lohit-Odia.ttf', name='Lohit Odia', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,278 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-gujr-extra/padmaa-Bold.1.1.ttf', name='padmaa-Bold.1.1', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,278 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Sawasdee-Oblique.ttf', name='Sawasdee', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,278 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-beng-extra/LikhanNormal.ttf', name='Likhan', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,278 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/samyak-fonts/Samyak-Malayalam.ttf', name='Samyak Malayalam', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,278 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/P052-BoldItalic.otf', name='P052', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,279 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Waree-Bold.ttf', name='Waree', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,279 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/TlwgTypist-BoldOblique.ttf', name='Tlwg Typist', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,279 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/TlwgTypo.ttf', name='Tlwg Typo', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,279 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/malayalam/Suruma.ttf', name='Suruma', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,279 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeSansBold.ttf', name='FreeSans', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2023-01-06 16:33:34,279 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/TlwgTypist-Bold.ttf', name='Tlwg Typist', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,279 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/malayalam/Manjari-Thin.otf', name='Manjari', style='normal', variant='normal', weight=100, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,279 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Garuda-Bold.ttf', name='Garuda', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,279 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-SemiBold.ttf', name='Yrsa', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2023-01-06 16:33:34,279 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/kacst/KacstOffice.ttf', name='KacstOffice', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,279 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Kinnari-Italic.ttf', name='Kinnari', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,279 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/Ramaraja-Regular.ttf', name='Ramaraja', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,279 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/kacst/KacstFarsi.ttf', name='KacstFarsi', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,279 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/kacst/KacstBook.ttf', name='KacstBook', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,279 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-yrsa-rasa/Rasa-Bold.ttf', name='Rasa', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,280 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeMono.ttf', name='FreeMono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,280 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/padauk/Padauk-Regular.ttf', name='Padauk', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,280 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeSerifItalic.ttf', name='FreeSerif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,280 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-gujr-extra/padmaa-Medium-0.5.ttf', name='padmaa', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,280 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Garuda.ttf', name='Garuda', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,280 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/C059-BdIta.otf', name='C059', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,280 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-deva-extra/chandas1-2.ttf', name='Chandas', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,280 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/kacst/KacstTitle.ttf', name='KacstTitle', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,280 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-Light.ttf', name='Yrsa', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,280 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Kinnari.ttf', name='Kinnari', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,280 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Kinnari-Oblique.ttf', name='Kinnari', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,280 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeMonoBold.ttf', name='FreeMono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,280 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/malayalam/Rachana-Regular.ttf', name='Rachana', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,280 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/TlwgTypist.ttf', name='Tlwg Typist', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,280 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWBookman-Light.otf', name='URW Bookman', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,280 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSansNarrow-Oblique.otf', name='Nimbus Sans Narrow', style='oblique', variant='normal', weight=400, stretch='condensed', size='scalable')) = 11.25
+2023-01-06 16:33:34,281 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/Gargi/Gargi.ttf', name='Gargi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,281 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/lohit-tamil/Lohit-Tamil.ttf', name='Lohit Tamil', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,281 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/TlwgTypo-Oblique.ttf', name='Tlwg Typo', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,281 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/pagul/Pagul.ttf', name='Pagul', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,281 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/Gidugu.ttf', name='Gidugu', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,281 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/lohit-assamese/Lohit-Assamese.ttf', name='Lohit Assamese', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,281 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/TlwgTypewriter-Oblique.ttf', name='Tlwg Typewriter', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,281 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWBookman-LightItalic.otf', name='URW Bookman', style='italic', variant='normal', weight=300, stretch='normal', size='scalable')) = 11.145
+2023-01-06 16:33:34,281 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/noto/NotoSansMono-Regular.ttf', name='Noto Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,281 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationMono-Italic.ttf', name='Liberation Mono', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,281 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/lohit-malayalam/Lohit-Malayalam.ttf', name='Lohit Malayalam', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,281 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/malayalam/Manjari-Regular.otf', name='Manjari', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,281 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Umpush-Oblique.ttf', name='Umpush', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,281 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeSerifBoldItalic.ttf', name='FreeSerif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,281 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/malayalam/AnjaliOldLipi-Regular.ttf', name='AnjaliOldLipi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,281 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/droid/DroidSansFallbackFull.ttf', name='Droid Sans Fallback', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,281 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,281 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationSans-Italic.ttf', name='Liberation Sans', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,281 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Garuda-Oblique.ttf', name='Garuda', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,282 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/padauk/PadaukBook-Bold.ttf', name='Padauk Book', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,282 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSansNarrow-BoldItalic.ttf', name='Liberation Sans Narrow', style='italic', variant='normal', weight=700, stretch='condensed', size='scalable')) = 11.535
+2023-01-06 16:33:34,282 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Umpush-Bold.ttf', name='Umpush', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,282 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ttf-khmeros-core/KhmerOSsys.ttf', name='Khmer OS System', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,282 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-beng-extra/Mukti.ttf', name='Mukti', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,282 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/malayalam/RaghuMalayalamSans-Regular.ttf', name='RaghuMalayalamSans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,282 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-telu-extra/Pothana2000.ttf', name='Pothana2000', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,282 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-Bold.ttf', name='Yrsa', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,282 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/suranna.ttf', name='Suranna', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,282 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/TlwgMono.ttf', name='Tlwg Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,282 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/TlwgTypewriter.ttf', name='Tlwg Typewriter', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,282 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Kinnari-Bold.ttf', name='Kinnari', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,282 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/malayalam/Gayathri-Bold.otf', name='Gayathri', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,282 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/lohit-bengali/Lohit-Bengali.ttf', name='Lohit Bengali', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,282 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationMono-BoldItalic.ttf', name='Liberation Mono', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,282 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusMonoPS-BoldItalic.otf', name='Nimbus Mono PS', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,282 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Laksaman-Italic.ttf', name='Laksaman', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,282 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/noto/NotoSerifCJK-Regular.ttc', name='Noto Serif CJK JP', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,282 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/UbuntuMono-BI.ttf', name='Ubuntu Mono', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,283 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/lohit-tamil-classical/Lohit-Tamil-Classical.ttf', name='Lohit Tamil Classical', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,283 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Norasi.ttf', name='Norasi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,283 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-yrsa-rasa/Rasa-SemiBold.ttf', name='Rasa', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2023-01-06 16:33:34,283 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeMonoOblique.ttf', name='FreeMono', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,283 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/C059-Italic.otf', name='C059', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,283 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-yrsa-rasa/Rasa-Regular.ttf', name='Rasa', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,283 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWBookman-DemiItalic.otf', name='URW Bookman', style='italic', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+2023-01-06 16:33:34,283 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/Navilu/Navilu.ttf', name='Navilu', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,283 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-C.ttf', name='Ubuntu Condensed', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2023-01-06 16:33:34,283 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-gujr-extra/padmaa.ttf', name='padmaa', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,283 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeSerif.ttf', name='FreeSerif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,283 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/lao/Phetsarath_OT.ttf', name='Phetsarath OT', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,283 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/TlwgTypewriter-Bold.ttf', name='Tlwg Typewriter', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,283 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Waree.ttf', name='Waree', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,283 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Loma-Oblique.ttf', name='Loma', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,283 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSansNarrow-Regular.ttf', name='Liberation Sans Narrow', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2023-01-06 16:33:34,283 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeSansBoldOblique.ttf', name='FreeSans', style='oblique', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+2023-01-06 16:33:34,283 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/samyak-fonts/Samyak-Gujarati.ttf', name='Samyak Gujarati', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,283 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/noto/NotoSerifCJK-Bold.ttc', name='Noto Serif CJK JP', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,283 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationMono-Bold.ttf', name='Liberation Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,284 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Loma-BoldOblique.ttf', name='Loma', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,284 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/Sarai/Sarai.ttf', name='Sarai', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,284 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationMono-Regular.ttf', name='Liberation Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,284 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-beng-extra/JamrulNormal.ttf', name='Jamrul', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,284 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/sinhala/lklug.ttf', name='LKLUG', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,284 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-kalapi/Kalapi.ttf', name='Kalapi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,284 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/C059-Bold.otf', name='C059', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,284 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/kacst/KacstPen.ttf', name='KacstPen', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,284 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-gujr-extra/aakar-medium.ttf', name='aakar', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,284 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-Medium.ttf', name='Yrsa', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,284 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusMonoPS-Italic.otf', name='Nimbus Mono PS', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,284 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/malayalam/Chilanka-Regular.otf', name='Chilanka', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,284 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/kacst/KacstDecorative.ttf', name='KacstDecorative', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,284 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/malayalam/Dyuthi-Regular.ttf', name='Dyuthi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,285 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/kacst/KacstPoster.ttf', name='KacstPoster', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,285 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSans-Bold.otf', name='Nimbus Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,285 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationMono-Italic.ttf', name='Liberation Mono', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,285 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Sawasdee.ttf', name='Sawasdee', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,285 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-BoldItalic.ttf', name='Yrsa', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,285 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-deva-extra/kalimati.ttf', name='Kalimati', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,285 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Norasi-BoldItalic.ttf', name='Norasi', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,285 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Laksaman-Bold.ttf', name='Laksaman', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,285 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSerif-BoldItalic.ttf', name='Liberation Serif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,285 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/TlwgMono-Oblique.ttf', name='Tlwg Mono', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,285 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf', name='Liberation Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,285 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationSans-BoldItalic.ttf', name='Liberation Sans', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,285 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/RaviPrakash.ttf', name='RaviPrakash', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,285 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/ramabhadra.ttf', name='Ramabhadra', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,285 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/noto/NotoMono-Regular.ttf', name='Noto Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,285 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-gujr-extra/Rekha.ttf', name='Rekha', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,285 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/Suravaram.ttf', name='Suravaram', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,286 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSerif-Regular.ttf', name='Liberation Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,286 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/TlwgMono-Bold.ttf', name='Tlwg Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,286 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeSansOblique.ttf', name='FreeSans', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,286 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/noto/NotoSansMono-Bold.ttf', name='Noto Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,286 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Sawasdee-Bold.ttf', name='Sawasdee', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,286 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/kacst/mry_KacstQurn.ttf', name='mry_KacstQurn', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,286 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationSerif-Regular.ttf', name='Liberation Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,286 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/padauk/Padauk-Bold.ttf', name='Padauk', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,286 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSans-Regular.otf', name='Nimbus Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,286 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/SyamalaRamana.ttf', name='Syamala Ramana', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,286 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/P052-Italic.otf', name='P052', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,286 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWGothic-DemiOblique.otf', name='URW Gothic', style='oblique', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+2023-01-06 16:33:34,286 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,286 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/TlwgTypist-Oblique.ttf', name='Tlwg Typist', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,286 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/kacst/KacstDigital.ttf', name='KacstDigital', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,286 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/P052-Bold.otf', name='P052', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,286 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-LightItalic.ttf', name='Yrsa', style='italic', variant='normal', weight=300, stretch='normal', size='scalable')) = 11.145
+2023-01-06 16:33:34,286 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/TlwgTypewriter-BoldOblique.ttf', name='Tlwg Typewriter', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,287 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/malayalam/Keraleeyam-Regular.ttf', name='Keraleeyam', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,287 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/kacst/KacstTitleL.ttf', name='KacstTitleL', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,287 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/TlwgMono-BoldOblique.ttf', name='Tlwg Mono', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,287 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Umpush.ttf', name='Umpush', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,287 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSans-Italic.otf', name='Nimbus Sans', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,287 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/kacst-one/KacstOne.ttf', name='KacstOne', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,287 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/StandardSymbolsPS.otf', name='Standard Symbols PS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,287 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Kinnari-BoldItalic.ttf', name='Kinnari', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,287 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeMonoBoldOblique.ttf', name='FreeMono', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,287 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Purisa.ttf', name='Purisa', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,287 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/malayalam/Gayathri-Thin.otf', name='Gayathri', style='normal', variant='normal', weight=100, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,287 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-Th.ttf', name='Ubuntu', style='normal', variant='normal', weight=250, stretch='normal', size='scalable')) = 10.1925
+2023-01-06 16:33:34,287 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Umpush-Light.ttf', name='Umpush', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,287 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSansNarrow-Bold.ttf', name='Liberation Sans Narrow', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 10.535
+2023-01-06 16:33:34,287 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Norasi-Bold.ttf', name='Norasi', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,287 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSansNarrow-Regular.otf', name='Nimbus Sans Narrow', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2023-01-06 16:33:34,288 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationSerif-Bold.ttf', name='Liberation Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,288 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/TlwgTypo-BoldOblique.ttf', name='Tlwg Typo', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,288 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/abyssinica/AbyssinicaSIL-Regular.ttf', name='Abyssinica SIL', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,288 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSansNarrow-Bold.otf', name='Nimbus Sans Narrow', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 10.535
+2023-01-06 16:33:34,288 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Umpush-LightOblique.ttf', name='Umpush', style='oblique', variant='normal', weight=300, stretch='normal', size='scalable')) = 11.145
+2023-01-06 16:33:34,288 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/PottiSreeramulu.ttf', name='Potti Sreeramulu', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,288 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/padauk/PadaukBook-Regular.ttf', name='Padauk Book', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,288 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Umpush-BoldOblique.ttf', name='Umpush', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,288 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSans-Italic.ttf', name='Liberation Sans', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,288 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeSerifBold.ttf', name='FreeSerif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,288 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSansNarrow-Italic.ttf', name='Liberation Sans Narrow', style='italic', variant='normal', weight=400, stretch='condensed', size='scalable')) = 11.25
+2023-01-06 16:33:34,288 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/LakkiReddy.ttf', name='LakkiReddy', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,288 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Purisa-Oblique.ttf', name='Purisa', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,288 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/Peddana-Regular.ttf', name='Peddana', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,288 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-B.ttf', name='Ubuntu', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,288 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusRoman-Regular.otf', name='Nimbus Roman', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,288 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationSerif-Italic.ttf', name='Liberation Serif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,288 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/mallanna.ttf', name='Mallanna', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,288 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusRoman-Bold.otf', name='Nimbus Roman', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,288 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 0.33499999999999996
+2023-01-06 16:33:34,289 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Waree-BoldOblique.ttf', name='Waree', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,289 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Norasi-BoldOblique.ttf', name='Norasi', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,289 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeSans.ttf', name='FreeSans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,289 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusMonoPS-Bold.otf', name='Nimbus Mono PS', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,289 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/NATS.ttf', name='NATS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,289 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusMonoPS-Regular.otf', name='Nimbus Mono PS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,289 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/Gurajada.ttf', name='Gurajada', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,289 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc', name='Noto Sans CJK JP', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,289 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/Sahadeva/sahadeva.ttf', name='Sahadeva', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,289 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/libreoffice/opens___.ttf', name='OpenSymbol', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,289 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/samyak-fonts/Samyak-Tamil.ttf', name='Samyak Tamil', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,289 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/UbuntuMono-R.ttf', name='Ubuntu Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,289 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-telu-extra/vemana2000.ttf', name='Vemana2000', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,289 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/dhurjati.ttf', name='Dhurjati', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,289 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-beng-extra/Muktibold.ttf', name='Mukti', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,289 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Laksaman.ttf', name='Laksaman', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,289 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf', name='Liberation Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,289 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/lohit-kannada/Lohit-Kannada.ttf', name='Lohit Kannada', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,289 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationMono-Regular.ttf', name='Liberation Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,289 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-guru-extra/Saab.ttf', name='Saab', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,290 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Waree-Oblique.ttf', name='Waree', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,290 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,290 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 0.05
+2023-01-06 16:33:34,290 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/malayalam/Manjari-Bold.otf', name='Manjari', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,290 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tibetan-machine/TibetanMachineUni.ttf', name='Tibetan Machine Uni', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,290 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/kacst-one/KacstOne-Bold.ttf', name='KacstOne', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,290 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/UbuntuMono-B.ttf', name='Ubuntu Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,290 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/samyak/Samyak-Devanagari.ttf', name='Samyak Devanagari', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,290 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/lohit-gujarati/Lohit-Gujarati.ttf', name='Lohit Gujarati', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,290 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf', name='Liberation Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,290 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/kacst/KacstArt.ttf', name='KacstArt', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,290 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/UbuntuMono-RI.ttf', name='Ubuntu Mono', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,290 findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2023-01-06 16:33:34,390 findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0.
+2023-01-06 16:33:34,391 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymBol.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,391 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,391 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Oblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,391 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBolIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,391 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymReg.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,391 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/cmss10.ttf', name='cmss10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,391 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 0.05
+2023-01-06 16:33:34,391 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymReg.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,391 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/cmb10.ttf', name='cmb10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,392 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymBol.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,392 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/cmex10.ttf', name='cmex10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,392 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBolIta.ttf', name='STIXGeneral', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,392 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Italic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,392 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Bold.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,392 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Bold.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,392 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-BoldItalic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,392 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-BoldOblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,392 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/cmtt10.ttf', name='cmtt10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,392 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFiveSymReg.ttf', name='STIXSizeFiveSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,392 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralItalic.ttf', name='STIXGeneral', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,392 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,392 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/cmmi10.ttf', name='cmmi10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,392 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUni.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,392 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-BoldOblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 1.335
+2023-01-06 16:33:34,392 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBol.ttf', name='STIXGeneral', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,392 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,392 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerifDisplay.ttf', name='DejaVu Serif Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,392 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymReg.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,392 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansDisplay.ttf', name='DejaVu Sans Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,393 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/cmsy10.ttf', name='cmsy10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,393 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Oblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 1.05
+2023-01-06 16:33:34,393 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymReg.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,393 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/cmr10.ttf', name='cmr10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,393 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneral.ttf', name='STIXGeneral', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,393 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymBol.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,393 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymBol.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,393 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBol.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,393 findfont: score(FontEntry(fname='/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 0.33499999999999996
+2023-01-06 16:33:34,393 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/kacst/KacstNaskh.ttf', name='KacstNaskh', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,393 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/D050000L.otf', name='D050000L', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,393 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-yrsa-rasa/Rasa-Medium.ttf', name='Rasa', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,393 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Norasi-Italic.ttf', name='Norasi', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,393 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/malayalam/Rachana-Bold.ttf', name='Rachana', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,393 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/Z003-MediumItalic.otf', name='Z003', style='italic', variant='normal', weight=500, stretch='normal', size='scalable')) = 11.145
+2023-01-06 16:33:34,393 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-Italic.ttf', name='Yrsa', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,393 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/malayalam/Gayathri-Regular.otf', name='Gayathri', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,393 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/TlwgTypo-Bold.ttf', name='Tlwg Typo', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,393 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Purisa-BoldOblique.ttf', name='Purisa', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,393 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Garuda-BoldOblique.ttf', name='Garuda', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,393 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-yrsa-rasa/Rasa-Light.ttf', name='Rasa', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,393 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWGothic-Book.otf', name='URW Gothic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,393 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-Regular.ttf', name='Yrsa', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,393 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Norasi-Oblique.ttf', name='Norasi', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,394 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSerif-Italic.ttf', name='Liberation Serif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,394 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-BI.ttf', name='Ubuntu', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,394 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWGothic-BookOblique.otf', name='URW Gothic', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,394 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWBookman-Demi.otf', name='URW Bookman', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2023-01-06 16:33:34,394 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/P052-Roman.otf', name='P052', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,394 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/kacst/KacstLetter.ttf', name='KacstLetter', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,394 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/C059-Roman.otf', name='C059', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,394 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/SreeKrushnadevaraya.ttf', name='Sree Krushnadevaraya', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,394 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Kinnari-BoldOblique.ttf', name='Kinnari', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,394 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-MediumItalic.ttf', name='Yrsa', style='italic', variant='normal', weight=500, stretch='normal', size='scalable')) = 11.145
+2023-01-06 16:33:34,394 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/Nakula/nakula.ttf', name='Nakula', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,394 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Laksaman-BoldItalic.ttf', name='Laksaman', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,394 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationMono-Bold.ttf', name='Liberation Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,394 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSerif-Bold.ttf', name='Liberation Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,394 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSans-BoldItalic.otf', name='Nimbus Sans', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,394 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,394 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationSerif-BoldItalic.ttf', name='Liberation Serif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,394 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusRoman-BoldItalic.otf', name='Nimbus Roman', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,394 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSans-BoldItalic.ttf', name='Liberation Sans', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,394 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-beng-extra/Ani.ttf', name='Ani', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,394 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/Gubbi/Gubbi.ttf', name='Gubbi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,394 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/lohit-punjabi/Lohit-Gurmukhi.ttf', name='Lohit Gurmukhi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,395 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-LI.ttf', name='Ubuntu', style='italic', variant='normal', weight=300, stretch='normal', size='scalable')) = 11.145
+2023-01-06 16:33:34,395 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/TenaliRamakrishna-Regular.ttf', name='TenaliRamakrishna', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,395 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-SemiBoldItalic.ttf', name='Yrsa', style='italic', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+2023-01-06 16:33:34,395 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/malayalam/Karumbi-Regular.ttf', name='Karumbi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,395 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf', name='Ubuntu', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,395 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/kacst/KacstQurn.ttf', name='KacstQurn', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,395 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-beng-extra/MitraMono.ttf', name='Mitra ', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,395 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/lohit-telugu/Lohit-Telugu.ttf', name='Lohit Telugu', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,395 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Loma-Bold.ttf', name='Loma', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,395 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/Ponnala.ttf', name='Ponnala', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,395 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationMono-BoldItalic.ttf', name='Liberation Mono', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,395 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ttf-khmeros-core/KhmerOS.ttf', name='Khmer OS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,395 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/TimmanaRegular.ttf', name='Timmana', style='normal', variant='normal', weight=900, stretch='normal', size='scalable')) = 10.525
+2023-01-06 16:33:34,395 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/lohit-devanagari/Lohit-Devanagari.ttf', name='Lohit Devanagari', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,396 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSansNarrow-BoldOblique.otf', name='Nimbus Sans Narrow', style='oblique', variant='normal', weight=700, stretch='condensed', size='scalable')) = 11.535
+2023-01-06 16:33:34,396 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-M.ttf', name='Ubuntu', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,396 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Loma.ttf', name='Loma', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,396 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Sawasdee-BoldOblique.ttf', name='Sawasdee', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,396 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationSans-Bold.ttf', name='Liberation Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,396 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/malayalam/Uroob-Regular.ttf', name='Uroob', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,396 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusRoman-Italic.otf', name='Nimbus Roman', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,396 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWGothic-Demi.otf', name='URW Gothic', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2023-01-06 16:33:34,396 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Purisa-Bold.ttf', name='Purisa', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,396 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-deva-extra/samanata.ttf', name='Samanata', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,396 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-MI.ttf', name='Ubuntu', style='italic', variant='normal', weight=500, stretch='normal', size='scalable')) = 11.145
+2023-01-06 16:33:34,396 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/malayalam/Meera-Regular.ttf', name='Meera', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,396 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-RI.ttf', name='Ubuntu', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,396 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc', name='Noto Sans CJK JP', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,397 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-orya-extra/utkal.ttf', name='ori1Uni', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,397 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/NTR.ttf', name='NTR', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,397 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/Mandali-Regular.ttf', name='Mandali', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,397 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-L.ttf', name='Ubuntu', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,397 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/kacst/KacstScreen.ttf', name='KacstScreen', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,397 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/lohit-oriya/Lohit-Odia.ttf', name='Lohit Odia', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,397 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-gujr-extra/padmaa-Bold.1.1.ttf', name='padmaa-Bold.1.1', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,397 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Sawasdee-Oblique.ttf', name='Sawasdee', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,397 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-beng-extra/LikhanNormal.ttf', name='Likhan', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,398 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/samyak-fonts/Samyak-Malayalam.ttf', name='Samyak Malayalam', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,398 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/P052-BoldItalic.otf', name='P052', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,398 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Waree-Bold.ttf', name='Waree', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,398 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/TlwgTypist-BoldOblique.ttf', name='Tlwg Typist', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,398 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/TlwgTypo.ttf', name='Tlwg Typo', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,398 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/malayalam/Suruma.ttf', name='Suruma', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,398 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeSansBold.ttf', name='FreeSans', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2023-01-06 16:33:34,398 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/TlwgTypist-Bold.ttf', name='Tlwg Typist', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,398 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/malayalam/Manjari-Thin.otf', name='Manjari', style='normal', variant='normal', weight=100, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,398 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Garuda-Bold.ttf', name='Garuda', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,398 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-SemiBold.ttf', name='Yrsa', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2023-01-06 16:33:34,398 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/kacst/KacstOffice.ttf', name='KacstOffice', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,398 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Kinnari-Italic.ttf', name='Kinnari', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,398 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/Ramaraja-Regular.ttf', name='Ramaraja', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,399 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/kacst/KacstFarsi.ttf', name='KacstFarsi', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,399 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/kacst/KacstBook.ttf', name='KacstBook', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,399 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-yrsa-rasa/Rasa-Bold.ttf', name='Rasa', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,399 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeMono.ttf', name='FreeMono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,399 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/padauk/Padauk-Regular.ttf', name='Padauk', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,399 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeSerifItalic.ttf', name='FreeSerif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,399 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-gujr-extra/padmaa-Medium-0.5.ttf', name='padmaa', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,399 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Garuda.ttf', name='Garuda', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,399 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/C059-BdIta.otf', name='C059', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,399 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-deva-extra/chandas1-2.ttf', name='Chandas', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,399 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/kacst/KacstTitle.ttf', name='KacstTitle', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,399 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-Light.ttf', name='Yrsa', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,399 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Kinnari.ttf', name='Kinnari', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,400 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Kinnari-Oblique.ttf', name='Kinnari', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,400 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeMonoBold.ttf', name='FreeMono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,400 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/malayalam/Rachana-Regular.ttf', name='Rachana', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,400 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/TlwgTypist.ttf', name='Tlwg Typist', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,400 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWBookman-Light.otf', name='URW Bookman', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,400 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSansNarrow-Oblique.otf', name='Nimbus Sans Narrow', style='oblique', variant='normal', weight=400, stretch='condensed', size='scalable')) = 11.25
+2023-01-06 16:33:34,400 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/Gargi/Gargi.ttf', name='Gargi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,400 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/lohit-tamil/Lohit-Tamil.ttf', name='Lohit Tamil', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,400 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/TlwgTypo-Oblique.ttf', name='Tlwg Typo', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,400 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/pagul/Pagul.ttf', name='Pagul', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,400 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/Gidugu.ttf', name='Gidugu', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,400 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/lohit-assamese/Lohit-Assamese.ttf', name='Lohit Assamese', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,400 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/TlwgTypewriter-Oblique.ttf', name='Tlwg Typewriter', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,400 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWBookman-LightItalic.otf', name='URW Bookman', style='italic', variant='normal', weight=300, stretch='normal', size='scalable')) = 11.145
+2023-01-06 16:33:34,401 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/noto/NotoSansMono-Regular.ttf', name='Noto Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,401 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationMono-Italic.ttf', name='Liberation Mono', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,401 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/lohit-malayalam/Lohit-Malayalam.ttf', name='Lohit Malayalam', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,401 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/malayalam/Manjari-Regular.otf', name='Manjari', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,401 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Umpush-Oblique.ttf', name='Umpush', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,401 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeSerifBoldItalic.ttf', name='FreeSerif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,401 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/malayalam/AnjaliOldLipi-Regular.ttf', name='AnjaliOldLipi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,401 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/droid/DroidSansFallbackFull.ttf', name='Droid Sans Fallback', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,401 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,401 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationSans-Italic.ttf', name='Liberation Sans', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,401 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Garuda-Oblique.ttf', name='Garuda', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,401 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/padauk/PadaukBook-Bold.ttf', name='Padauk Book', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,402 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSansNarrow-BoldItalic.ttf', name='Liberation Sans Narrow', style='italic', variant='normal', weight=700, stretch='condensed', size='scalable')) = 11.535
+2023-01-06 16:33:34,402 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Umpush-Bold.ttf', name='Umpush', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,402 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ttf-khmeros-core/KhmerOSsys.ttf', name='Khmer OS System', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,402 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-beng-extra/Mukti.ttf', name='Mukti', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,402 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/malayalam/RaghuMalayalamSans-Regular.ttf', name='RaghuMalayalamSans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,402 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-telu-extra/Pothana2000.ttf', name='Pothana2000', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,402 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-Bold.ttf', name='Yrsa', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,402 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/suranna.ttf', name='Suranna', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,402 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/TlwgMono.ttf', name='Tlwg Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,402 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/TlwgTypewriter.ttf', name='Tlwg Typewriter', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,402 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Kinnari-Bold.ttf', name='Kinnari', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,402 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/malayalam/Gayathri-Bold.otf', name='Gayathri', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,402 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/lohit-bengali/Lohit-Bengali.ttf', name='Lohit Bengali', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,402 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationMono-BoldItalic.ttf', name='Liberation Mono', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,402 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusMonoPS-BoldItalic.otf', name='Nimbus Mono PS', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,403 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Laksaman-Italic.ttf', name='Laksaman', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,403 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/noto/NotoSerifCJK-Regular.ttc', name='Noto Serif CJK JP', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,403 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/UbuntuMono-BI.ttf', name='Ubuntu Mono', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,403 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/lohit-tamil-classical/Lohit-Tamil-Classical.ttf', name='Lohit Tamil Classical', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,403 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Norasi.ttf', name='Norasi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,403 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-yrsa-rasa/Rasa-SemiBold.ttf', name='Rasa', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2023-01-06 16:33:34,403 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeMonoOblique.ttf', name='FreeMono', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,403 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/C059-Italic.otf', name='C059', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,403 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-yrsa-rasa/Rasa-Regular.ttf', name='Rasa', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,403 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWBookman-DemiItalic.otf', name='URW Bookman', style='italic', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+2023-01-06 16:33:34,403 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/Navilu/Navilu.ttf', name='Navilu', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,403 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-C.ttf', name='Ubuntu Condensed', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2023-01-06 16:33:34,403 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-gujr-extra/padmaa.ttf', name='padmaa', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,403 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeSerif.ttf', name='FreeSerif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,403 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/lao/Phetsarath_OT.ttf', name='Phetsarath OT', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,403 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/TlwgTypewriter-Bold.ttf', name='Tlwg Typewriter', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,403 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Waree.ttf', name='Waree', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,404 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Loma-Oblique.ttf', name='Loma', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,404 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSansNarrow-Regular.ttf', name='Liberation Sans Narrow', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2023-01-06 16:33:34,404 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeSansBoldOblique.ttf', name='FreeSans', style='oblique', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+2023-01-06 16:33:34,404 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/samyak-fonts/Samyak-Gujarati.ttf', name='Samyak Gujarati', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,404 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/noto/NotoSerifCJK-Bold.ttc', name='Noto Serif CJK JP', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,404 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationMono-Bold.ttf', name='Liberation Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,404 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Loma-BoldOblique.ttf', name='Loma', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,404 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/Sarai/Sarai.ttf', name='Sarai', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,404 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationMono-Regular.ttf', name='Liberation Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,404 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-beng-extra/JamrulNormal.ttf', name='Jamrul', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,404 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/sinhala/lklug.ttf', name='LKLUG', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,404 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-kalapi/Kalapi.ttf', name='Kalapi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,404 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/C059-Bold.otf', name='C059', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,404 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/kacst/KacstPen.ttf', name='KacstPen', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,404 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-gujr-extra/aakar-medium.ttf', name='aakar', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,404 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-Medium.ttf', name='Yrsa', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,404 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusMonoPS-Italic.otf', name='Nimbus Mono PS', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,404 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/malayalam/Chilanka-Regular.otf', name='Chilanka', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,404 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/kacst/KacstDecorative.ttf', name='KacstDecorative', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,404 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/malayalam/Dyuthi-Regular.ttf', name='Dyuthi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,404 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/kacst/KacstPoster.ttf', name='KacstPoster', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,404 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSans-Bold.otf', name='Nimbus Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,404 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationMono-Italic.ttf', name='Liberation Mono', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,404 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Sawasdee.ttf', name='Sawasdee', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,404 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-BoldItalic.ttf', name='Yrsa', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,405 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-deva-extra/kalimati.ttf', name='Kalimati', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,405 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Norasi-BoldItalic.ttf', name='Norasi', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,405 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Laksaman-Bold.ttf', name='Laksaman', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,405 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSerif-BoldItalic.ttf', name='Liberation Serif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,405 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/TlwgMono-Oblique.ttf', name='Tlwg Mono', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,405 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf', name='Liberation Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,405 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationSans-BoldItalic.ttf', name='Liberation Sans', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,405 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/RaviPrakash.ttf', name='RaviPrakash', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,405 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/ramabhadra.ttf', name='Ramabhadra', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,405 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/noto/NotoMono-Regular.ttf', name='Noto Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,405 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-gujr-extra/Rekha.ttf', name='Rekha', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,405 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/Suravaram.ttf', name='Suravaram', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,405 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSerif-Regular.ttf', name='Liberation Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,405 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/TlwgMono-Bold.ttf', name='Tlwg Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,405 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeSansOblique.ttf', name='FreeSans', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,405 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/noto/NotoSansMono-Bold.ttf', name='Noto Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,405 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Sawasdee-Bold.ttf', name='Sawasdee', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,405 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/kacst/mry_KacstQurn.ttf', name='mry_KacstQurn', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,405 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationSerif-Regular.ttf', name='Liberation Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,405 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/padauk/Padauk-Bold.ttf', name='Padauk', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,405 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSans-Regular.otf', name='Nimbus Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,405 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/SyamalaRamana.ttf', name='Syamala Ramana', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,405 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/P052-Italic.otf', name='P052', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,405 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWGothic-DemiOblique.otf', name='URW Gothic', style='oblique', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+2023-01-06 16:33:34,406 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,406 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/TlwgTypist-Oblique.ttf', name='Tlwg Typist', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,406 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/kacst/KacstDigital.ttf', name='KacstDigital', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,406 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/P052-Bold.otf', name='P052', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,406 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-LightItalic.ttf', name='Yrsa', style='italic', variant='normal', weight=300, stretch='normal', size='scalable')) = 11.145
+2023-01-06 16:33:34,406 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/TlwgTypewriter-BoldOblique.ttf', name='Tlwg Typewriter', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,406 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/malayalam/Keraleeyam-Regular.ttf', name='Keraleeyam', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,406 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/kacst/KacstTitleL.ttf', name='KacstTitleL', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,406 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/TlwgMono-BoldOblique.ttf', name='Tlwg Mono', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,406 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Umpush.ttf', name='Umpush', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,406 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSans-Italic.otf', name='Nimbus Sans', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,406 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/kacst-one/KacstOne.ttf', name='KacstOne', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,406 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/StandardSymbolsPS.otf', name='Standard Symbols PS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,406 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Kinnari-BoldItalic.ttf', name='Kinnari', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,406 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeMonoBoldOblique.ttf', name='FreeMono', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,406 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Purisa.ttf', name='Purisa', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,406 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/malayalam/Gayathri-Thin.otf', name='Gayathri', style='normal', variant='normal', weight=100, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,406 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-Th.ttf', name='Ubuntu', style='normal', variant='normal', weight=250, stretch='normal', size='scalable')) = 10.1925
+2023-01-06 16:33:34,406 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Umpush-Light.ttf', name='Umpush', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,406 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSansNarrow-Bold.ttf', name='Liberation Sans Narrow', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 10.535
+2023-01-06 16:33:34,406 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Norasi-Bold.ttf', name='Norasi', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,406 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSansNarrow-Regular.otf', name='Nimbus Sans Narrow', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2023-01-06 16:33:34,406 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationSerif-Bold.ttf', name='Liberation Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,407 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/TlwgTypo-BoldOblique.ttf', name='Tlwg Typo', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,407 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/abyssinica/AbyssinicaSIL-Regular.ttf', name='Abyssinica SIL', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,407 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSansNarrow-Bold.otf', name='Nimbus Sans Narrow', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 10.535
+2023-01-06 16:33:34,407 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Umpush-LightOblique.ttf', name='Umpush', style='oblique', variant='normal', weight=300, stretch='normal', size='scalable')) = 11.145
+2023-01-06 16:33:34,407 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/PottiSreeramulu.ttf', name='Potti Sreeramulu', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,407 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/padauk/PadaukBook-Regular.ttf', name='Padauk Book', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,407 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Umpush-BoldOblique.ttf', name='Umpush', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,407 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSans-Italic.ttf', name='Liberation Sans', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,407 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeSerifBold.ttf', name='FreeSerif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,407 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSansNarrow-Italic.ttf', name='Liberation Sans Narrow', style='italic', variant='normal', weight=400, stretch='condensed', size='scalable')) = 11.25
+2023-01-06 16:33:34,407 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/LakkiReddy.ttf', name='LakkiReddy', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,407 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Purisa-Oblique.ttf', name='Purisa', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,407 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/Peddana-Regular.ttf', name='Peddana', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,407 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-B.ttf', name='Ubuntu', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,407 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusRoman-Regular.otf', name='Nimbus Roman', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,407 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationSerif-Italic.ttf', name='Liberation Serif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,407 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/mallanna.ttf', name='Mallanna', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,407 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusRoman-Bold.otf', name='Nimbus Roman', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,407 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 0.33499999999999996
+2023-01-06 16:33:34,407 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Waree-BoldOblique.ttf', name='Waree', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,407 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Norasi-BoldOblique.ttf', name='Norasi', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-01-06 16:33:34,407 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeSans.ttf', name='FreeSans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,407 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusMonoPS-Bold.otf', name='Nimbus Mono PS', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,408 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/NATS.ttf', name='NATS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,408 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusMonoPS-Regular.otf', name='Nimbus Mono PS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,408 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/Gurajada.ttf', name='Gurajada', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,408 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc', name='Noto Sans CJK JP', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,408 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/Sahadeva/sahadeva.ttf', name='Sahadeva', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,408 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/libreoffice/opens___.ttf', name='OpenSymbol', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,408 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/samyak-fonts/Samyak-Tamil.ttf', name='Samyak Tamil', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,408 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/UbuntuMono-R.ttf', name='Ubuntu Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,408 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-telu-extra/vemana2000.ttf', name='Vemana2000', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,408 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/teluguvijayam/dhurjati.ttf', name='Dhurjati', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,408 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-beng-extra/Muktibold.ttf', name='Mukti', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,408 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Laksaman.ttf', name='Laksaman', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,408 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf', name='Liberation Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,408 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/lohit-kannada/Lohit-Kannada.ttf', name='Lohit Kannada', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,408 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationMono-Regular.ttf', name='Liberation Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,408 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/fonts-guru-extra/Saab.ttf', name='Saab', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,408 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tlwg/Waree-Oblique.ttf', name='Waree', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,408 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,408 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 0.05
+2023-01-06 16:33:34,408 findfont: score(FontEntry(fname='/usr/share/fonts/opentype/malayalam/Manjari-Bold.otf', name='Manjari', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,408 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/tibetan-machine/TibetanMachineUni.ttf', name='Tibetan Machine Uni', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,408 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/kacst-one/KacstOne-Bold.ttf', name='KacstOne', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,408 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/UbuntuMono-B.ttf', name='Ubuntu Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-01-06 16:33:34,408 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/samyak/Samyak-Devanagari.ttf', name='Samyak Devanagari', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,408 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/lohit-gujarati/Lohit-Gujarati.ttf', name='Lohit Gujarati', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,409 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf', name='Liberation Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-01-06 16:33:34,409 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/kacst/KacstArt.ttf', name='KacstArt', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-01-06 16:33:34,409 findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/UbuntuMono-RI.ttf', name='Ubuntu Mono', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-01-06 16:33:34,409 findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/home/sanyam/.local/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.

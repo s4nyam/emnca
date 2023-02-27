@@ -1,0 +1,18 @@
+Generation >0, new best Born and Survive f([[3, 7, 7], [2, 7, 5]]) = 207906.000
+Generation >0, new best Born and Survive f([[7, 1, 6, 8, 2, 1, 5], [7, 4, 7, 6, 2, 2]]) = 218880.000
+Generation >0, new best Born and Survive f([[6], [5, 1]]) = 229974.000
+Generation >1, new best Born and Survive f([[1, 5, 3], [5, 1]]) = 256490.000
+Generation >1, new best Born and Survive f([[6], [7, 2, 4, 6, 2, 3, 6]]) = 268469.000
+Generation >1, new best Born and Survive f([[1, 5, 3], [5, 1]]) = 281924.000
+Generation >2, new best Born and Survive f([[6], [5, 1]]) = 305037.000
+Generation >2, new best Born and Survive f([[1, 5, 3], [7, 2, 4, 6, 2, 3, 6]]) = 319284.000
+Generation >2, new best Born and Survive f([[6], [5, 1]]) = 330419.000
+Generation >3, new best Born and Survive f([[1, 7, 4], [5, 1]]) = 451971.000
+Generation >3, new best Born and Survive f([[6], [7, 2, 4, 6, 2, 4, 3]]) = 463971.000
+Generation >3, new best Born and Survive f([[1, 7, 4], [5, 1]]) = 570928.000
+Final Best:  [[1, 7, 4], [5, 1]]
+Best Score this rules has:  570928
+printing generations
+[0, 1, 2, 3]
+printing DEFLATEs
+[[207906, 256490, 305037, 451971], [218920.0, 268961.0, 318246.6666666667, 495623.3333333333], [229974, 281924, 330419, 570928]]
