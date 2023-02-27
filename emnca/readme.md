@@ -1,6 +1,8 @@
 
-### 1. emnca 
+### 1. emnca (folder)
+
 (/Users/sanyamjain/Desktop/RA/mnca/mnca/emnca/emnca)
+
 Genetic Algorithm to evolve new rules. It takes input concatenated board array and result deflate score which works as fitness value. The hypothesis is, DEFLATE is able to capture randomness and order in input data.
 
 This folder contains EC.py and mnca.py where EC.py works as Genetic Algorithm driver and mnca.py is a utility that takes input as rule set and results deflate score.
@@ -72,8 +74,10 @@ Mutation = ```insert a value in the tuple rule```, ```remove a tuple from the ru
 
 
 
-### 2. mnca 
+### 2. mnca (folder)
+
 /Users/sanyamjain/Desktop/RA/mnca/mnca/emnca/mnca
+
 This script takes input neighborhood and rule sets which output to gif animation of that rule set.
 
 ```python
