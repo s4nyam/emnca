@@ -5,6 +5,15 @@ This project is funded and supperted by HiØ, Norway under supervision of Stefan
 
 ![image](https://user-images.githubusercontent.com/13884479/221710216-f7b85394-f94c-4614-889e-ff48452b1b8d.png)
 
+### Found this complex life like behaviour using Evolutionary Computation
+
+https://user-images.githubusercontent.com/13884479/221711801-01b77936-149e-411d-8a73-4cbd7e0bde03.mp4
+
+Rule Set: [[(0.185, 0.2, 1), (0.343, 0.58, 0), (0.75, 0.85, 0), (0.15, 0.18, 0)], [(0.15, 0.28, 0), (0.445, 0.68, 1)]]
+
+Do you want to know how this complex life evolved out of such simple rule set? Welcome here!
+
+
 ## emnca
 This folder is the most recent version of my work in MNCA. This folder contains:
 
@@ -46,3 +55,13 @@ This folder is the most recent version of my work in MNCA. This folder contains:
 
 <img width="659" alt="image" src="https://user-images.githubusercontent.com/13884479/221710030-cc2908bd-3134-4ef2-b740-36f100325ed8.png">
 
+
+Some more life like complex rules
+
+https://user-images.githubusercontent.com/13884479/221712070-b8010719-8d40-488a-96e6-db1f6bcb9348.mp4
+
+https://user-images.githubusercontent.com/13884479/221712177-57f4fd0c-e509-4627-a083-a92a93790fd6.mp4
+
+![cellular_automaton_ (0 21, 0 22, 1), (0 35, 0 5, 0), (0 75, 0 85, 0) ,  (0 1, 0 28, 0), (0 43, 0 55, 1), (0 12, 0 15, 0)](https://user-images.githubusercontent.com/13884479/221712296-4a03f56c-2183-4925-9f6c-3aa53d7a1096.gif)
+
+![cellular_automaton (1, 92, 1), (93, 100, 0), (101, 199, 0)](https://user-images.githubusercontent.com/13884479/221712321-02dabd5b-e1cf-4b29-b68d-6c82d81d8d02.gif)
