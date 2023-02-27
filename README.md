@@ -61,7 +61,3 @@ Some more life like complex rules
 https://user-images.githubusercontent.com/13884479/221712070-b8010719-8d40-488a-96e6-db1f6bcb9348.mp4
 
 https://user-images.githubusercontent.com/13884479/221712177-57f4fd0c-e509-4627-a083-a92a93790fd6.mp4
-
-![cellular_automaton_ (0 21, 0 22, 1), (0 35, 0 5, 0), (0 75, 0 85, 0) ,  (0 1, 0 28, 0), (0 43, 0 55, 1), (0 12, 0 15, 0)](https://user-images.githubusercontent.com/13884479/221712296-4a03f56c-2183-4925-9f6c-3aa53d7a1096.gif)
-
-![cellular_automaton (1, 92, 1), (93, 100, 0), (101, 199, 0)](https://user-images.githubusercontent.com/13884479/221712321-02dabd5b-e1cf-4b29-b68d-6c82d81d8d02.gif)
