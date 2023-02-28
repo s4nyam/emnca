@@ -199,7 +199,7 @@ def mutation(rule):
 
 # print(crossover(pop[0],pop[1]))
 
-
+deflates_for_plot = []
 # GENETIC ALGORITHM
 pop = init_population()
 for generation in range(GENERATION_SIZE):
@@ -256,6 +256,7 @@ for generation in range(GENERATION_SIZE):
 
     print("Best Chromosome from this Generation: ",selected_chromosomes_sorted[-1])
     print("Best Chromosome Fitness from this Generation: ",selected_chromosomes_sorted_fitness[-1])
+    deflates_for_plot.append(selected_chromosomes_sorted_fitness[-1])
 
     print("\n")
     print("\n")
@@ -267,3 +268,9 @@ best_chromosome = pop[fitness_scores.index(max(fitness_scores))]
 print("FINAL BEST CHROMOSOME IS: {} with fitness score {}".format(str(best_chromosome),str(max(fitness_scores))))
 # return best_chromosome
 
+
+import matplotlib.pyplot as plt
+plt.plot(deflates_for_plot)
+plt.xlabel('Generations')
+plt.ylabel('Deflates')
+plt.savefig("plot.png")
