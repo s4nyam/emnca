@@ -5,13 +5,12 @@ This project is funded and supperted by HiØ, Norway under supervision of Stefan
 
 ![image](https://user-images.githubusercontent.com/13884479/221710216-f7b85394-f94c-4614-889e-ff48452b1b8d.png)
 
-### Found this complex life like behaviour using Evolutionary Computation
+### Do you want to know how this complex life evolved out of such simple rule set? Welcome here!
 
 https://user-images.githubusercontent.com/13884479/221711801-01b77936-149e-411d-8a73-4cbd7e0bde03.mp4
 
 Rule Set: [[(0.185, 0.2, 1), (0.343, 0.58, 0), (0.75, 0.85, 0), (0.15, 0.18, 0)], [(0.15, 0.28, 0), (0.445, 0.68, 1)]]
 
-Do you want to know how this complex life evolved out of such simple rule set? Welcome here!
 
 
 ## emnca
