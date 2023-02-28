@@ -7,8 +7,8 @@ np.set_printoptions(threshold=sys.maxsize)
 from mnca import mnca
 
 OVERALL_PROBABILITY_ATLEAST = 1
-POPULATION_SIZE = 10
-GENERATION_SIZE = 10
+POPULATION_SIZE = 3
+GENERATION_SIZE = 3
 NUMBER_OF_NEIGHBORHOODS = 3 # for random number of nh put random function here
 NUMBER_OF_BOUNDS_IN_EACH_NEIGHBORHOOD = 3 # for random number of nh bounds put random function here
 
@@ -203,22 +203,29 @@ def mutation(rule):
 # GENETIC ALGORITHM
 pop = init_population()
 for generation in range(GENERATION_SIZE):
-    # Evaluate the fitness of each chromosome
-    fitness_scores = [calculate_deflate(chromosome) for chromosome in pop]
+    print("-----------Generation: "+str(generation)+"-----------")
+    print("--------------------------------------------------")
+    print("---------------------POPULATION-----------------------------")
+    print("Poplation: ",str(pop))
     
-    # Select the top-performing chromosomes to form the next generation
+    fitness_scores = [calculate_deflate(chromosome) for chromosome in pop]
+    print("Fitness for the population this generation",str(fitness_scores))
+    print("-------------------POPULATION OVER----------------------------")
+
     new_pop = []
-    for i in range(POPULATION_SIZE//2):
-        # Select two chromosomes using tournament selection
+    for i in range(POPULATION_SIZE):
+        # Select chromosomes using tournament selection
         selected,fitness = roulette_wheel_selection(pop, fitness_scores)
-        # <scope of crossover and child here>
         mutated = mutation(selected)
-        print("Generation: {}, Iteration {}, New Best Found Rule set {} Deflate {}".format(generation,str(i),str(mutated),str(fitness)))
-        new_pop.extend([mutated])
+        new_pop.append(mutated)
+        # print("selected",selected)
+        # print("selected fitness",fitness)
+        # print("Generation: {}, Iteration {}, New Best Found Rule set {} Deflate {}".format(generation,str(i),str(selected),str(fitness))) 
     pop = new_pop
+    print("--------------------------------------------------")
 
 # Select the chromosome with the highest fitness score from the final generation
-fitness_scores = [calculate_deflate(chromosome) for chromosome in pop]
+# fitness_scores = [calculate_deflate(chromosome) for chromosome in pop]
 best_chromosome = pop[fitness_scores.index(max(fitness_scores))]
 print("FINAL BEST CHROMOSOME IS: {} with fitness score {}".format(str(best_chromosome),str(max(fitness_scores))))
 # return best_chromosome
