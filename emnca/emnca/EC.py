@@ -203,29 +203,66 @@ def mutation(rule):
 # GENETIC ALGORITHM
 pop = init_population()
 for generation in range(GENERATION_SIZE):
+    print("\n")
+    print("\n")
+    print("\n")
     print("-----------Generation: "+str(generation)+"-----------")
     print("--------------------------------------------------")
-    print("---------------------POPULATION-----------------------------")
-    print("Poplation: ",str(pop))
     
+    
+    print("---------------------POPULATION-----------------------------")
+    print("Population: ",str(pop))
     fitness_scores = [calculate_deflate(chromosome) for chromosome in pop]
-    print("Fitness for the population this generation",str(fitness_scores))
-    print("-------------------POPULATION OVER----------------------------")
+    print("Fitness for the population this generation",str(fitness_scores))    
+    print("------------------------------------------------------")
+    print("\n")
+    print("\n")
+    print("\n")
 
-    new_pop = []
+    print("-------------------Selection---------------------------")
+    selected_corpus_selection = []
+    selected_corpus_selection_fitness = []
     for i in range(POPULATION_SIZE):
         # Select chromosomes using tournament selection
         selected,fitness = roulette_wheel_selection(pop, fitness_scores)
-        mutated = mutation(selected)
-        new_pop.append(mutated)
+        selected_corpus_selection.append(selected)
+        selected_corpus_selection_fitness.append(fitness)
         # print("selected",selected)
         # print("selected fitness",fitness)
         # print("Generation: {}, Iteration {}, New Best Found Rule set {} Deflate {}".format(generation,str(i),str(selected),str(fitness))) 
-    pop = new_pop
+    selected_chromosomes_sorted = [x for _,x in sorted(zip(selected_corpus_selection_fitness,selected_corpus_selection))]
+    selected_chromosomes_sorted_fitness = [_ for _,x in sorted(zip(selected_corpus_selection_fitness,selected_corpus_selection))]
+    print("Selected Chromosmes sorted: ",selected_chromosomes_sorted)
+    print("Selected Chromosmes sorted Fitness: ",selected_chromosomes_sorted_fitness)
+    print("------------------------------------------------------")
+
+    print("\n")
+    print("\n")
+    print("\n")
+
+    print("-------------------Mutation---------------------------")
+    print("Picking top chromosome in the Selected Chromosome Sorted list for mutation")
+    mutated_population = []
+    for j in range(POPULATION_SIZE):
+        mutated_chromosome = mutation(pop[j])
+        mutated_population.append(mutated_chromosome)
+    pop = mutated_population
+    print("Mutated Population: ", pop)
     print("--------------------------------------------------")
+    
+    print("\n")
+    print("\n")
+    print("\n")
+
+    print("Best Chromosome from this Generation: ",selected_chromosomes_sorted[-1])
+    print("Best Chromosome Fitness from this Generation: ",selected_chromosomes_sorted_fitness[-1])
+
+    print("\n")
+    print("\n")
+    print("\n")
 
 # Select the chromosome with the highest fitness score from the final generation
-# fitness_scores = [calculate_deflate(chromosome) for chromosome in pop]
+fitness_scores = [calculate_deflate(chromosome) for chromosome in pop]
 best_chromosome = pop[fitness_scores.index(max(fitness_scores))]
 print("FINAL BEST CHROMOSOME IS: {} with fitness score {}".format(str(best_chromosome),str(max(fitness_scores))))
 # return best_chromosome
