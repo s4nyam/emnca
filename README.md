@@ -1,5 +1,4 @@
-# mnca
-Capturing Emerging Behaviour in Multi Neighbourhood CA using EC
+# Capturing Emerging Behaviour in Multi Neighbourhood CA using EC
 
 This project is funded and supperted by HiØ, Norway under supervision of Stefano Nichele (https://nichele.eu)
 
