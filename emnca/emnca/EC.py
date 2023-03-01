@@ -199,6 +199,8 @@ def mutation(rule):
 
 # print(crossover(pop[0],pop[1]))
 
+at_any_time_best_pop = []
+at_any_time_best_deflates = []
 deflates_for_plot = []
 # GENETIC ALGORITHM
 pop = init_population()
@@ -222,7 +224,7 @@ for generation in range(GENERATION_SIZE):
     print("-------------------Selection---------------------------")
     selected_corpus_selection = []
     selected_corpus_selection_fitness = []
-    for i in range(POPULATION_SIZE):
+    for i in range(len(pop)):
         # Select chromosomes using tournament selection
         selected,fitness = roulette_wheel_selection(pop, fitness_scores)
         selected_corpus_selection.append(selected)
@@ -243,7 +245,7 @@ for generation in range(GENERATION_SIZE):
     print("-------------------Mutation---------------------------")
     print("Picking top chromosome in the Selected Chromosome Sorted list for mutation")
     mutated_population = []
-    for j in range(POPULATION_SIZE):
+    for j in range(len(pop)):
         mutated_chromosome = mutation(pop[j])
         mutated_population.append(mutated_chromosome)
     pop = mutated_population
@@ -254,23 +256,45 @@ for generation in range(GENERATION_SIZE):
     print("\n")
     print("\n")
 
-    print("Best Chromosome from this Generation: ",selected_chromosomes_sorted[-1])
-    print("Best Chromosome Fitness from this Generation: ",selected_chromosomes_sorted_fitness[-1])
-    deflates_for_plot.append(selected_chromosomes_sorted_fitness[-1])
+    # New code 1 march
+    print("-------------------Preserving 1 Elite---------------------------")
+    elite_chromosome = selected_chromosomes_sorted[-1]
+    elite_fitness = selected_chromosomes_sorted_fitness[-1]
+    print("Elite Chromosome: ",elite_chromosome)
+    print("Elite Chromosome Fitness: ",elite_fitness)
+    # pop.append(elite_chromosome)
+    
+    
+    if(len(at_any_time_best_deflates)==0): # if elite list is empty
+        at_any_time_best_deflates.append(elite_fitness)
+        at_any_time_best_pop.append(elite_chromosome)
+    if(elite_fitness<sorted(at_any_time_best_deflates)[-1]):
+        at_any_time_best_deflates.append(sorted(at_any_time_best_deflates)[-1])
+        at_any_time_best_pop.append(at_any_time_best_pop[len(at_any_time_best_pop)-1])
+    else:
+        at_any_time_best_deflates.append(elite_fitness)
+        at_any_time_best_pop.append(elite_chromosome)
+        
+    print("----------------------------------------------------------------")
+
+
+    print("Best Chromosome from this Generation: ",at_any_time_best_pop[-1])
+    print("Best Chromosome Fitness from this Generation: ",at_any_time_best_deflates[-1])
+    # deflates_for_plot.append(selected_chromosomes_sorted_fitness[-1])
 
     print("\n")
     print("\n")
     print("\n")
 
-# Select the chromosome with the highest fitness score from the final generation
-fitness_scores = [calculate_deflate(chromosome) for chromosome in pop]
-best_chromosome = pop[fitness_scores.index(max(fitness_scores))]
-print("FINAL BEST CHROMOSOME IS: {} with fitness score {}".format(str(best_chromosome),str(max(fitness_scores))))
-# return best_chromosome
+# # Select the chromosome with the highest fitness score from the final generation
+# fitness_scores = [calculate_deflate(chromosome) for chromosome in at_any_time_best_pop]
+# best_chromosome = at_any_time_best_pop[at_any_time_best_deflates.index(max(at_any_time_best_deflates))]
+# print("FINAL BEST CHROMOSOME IS: {} with fitness score {}".format(str(best_chromosome),str(max(fitness_scores))))
+# # return best_chromosome
 
 
 import matplotlib.pyplot as plt
-plt.plot(deflates_for_plot)
+plt.plot(at_any_time_best_deflates)
 plt.xlabel('Generations')
 plt.ylabel('Deflates')
 plt.savefig("plot.png")
