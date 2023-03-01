@@ -7,8 +7,8 @@ np.set_printoptions(threshold=sys.maxsize)
 from mnca import mnca
 
 OVERALL_PROBABILITY_ATLEAST = 1
-POPULATION_SIZE = 3
-GENERATION_SIZE = 3
+POPULATION_SIZE = 10 #3
+GENERATION_SIZE = 50 #3
 NUMBER_OF_NEIGHBORHOODS = 3 # for random number of nh put random function here
 NUMBER_OF_BOUNDS_IN_EACH_NEIGHBORHOOD = 3 # for random number of nh bounds put random function here
 
