@@ -95,6 +95,10 @@ filename = "cellular_automaton_"+str(range_of_neighborhood_sums)[0:10]+".mp4"
 run_automaton(width, height, steps, init_state, filename, neighborhoods, range_of_neighborhood_sums)
 ```
 
+### Three neighborhoods that were used for evo-mnca:
+
+![mask_c1nh](https://user-images.githubusercontent.com/13884479/222755848-b86e2fc2-2f28-4793-bf4d-d868b1572164.png) ![mask_c2nh](https://user-images.githubusercontent.com/13884479/222755861-cfba60af-cc63-49e9-aadf-1f5c5fa0a3df.png) ![mask_c3nh](https://user-images.githubusercontent.com/13884479/222755910-c8316de6-9c37-4dc9-91da-2802b6e03537.png)
+
 
 ### Found New rules (March 3rd)
 
