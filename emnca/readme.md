@@ -95,6 +95,10 @@ filename = "cellular_automaton_"+str(range_of_neighborhood_sums)[0:10]+".mp4"
 run_automaton(width, height, steps, init_state, filename, neighborhoods, range_of_neighborhood_sums)
 ```
 
+### Three neighborhoods that were used for evo-mnca:
+
+![mask_c1nh](https://user-images.githubusercontent.com/13884479/222755848-b86e2fc2-2f28-4793-bf4d-d868b1572164.png) ![mask_c2nh](https://user-images.githubusercontent.com/13884479/222755861-cfba60af-cc63-49e9-aadf-1f5c5fa0a3df.png) ![mask_c3nh](https://user-images.githubusercontent.com/13884479/222755910-c8316de6-9c37-4dc9-91da-2802b6e03537.png)
+
 
 ### Found New rules (March 3rd)
 
@@ -116,6 +120,13 @@ run_automaton(width, height, steps, init_state, filename, neighborhoods, range_o
 4. [[(0.853, 0.973, 0), (0.411, 0.774, 0), (0.186, 0.928, 0)], [(0.535, 0.848, 0), (0.093, 0.124, 0)], [(0.063, 0.54, 0), (0.536, 0.704, 0), (0.184, 0.333, 1), (0.313, 0.547, 1), (0.27, 0.285, 1)]]	with fitness 141086
 
 ![cellular_automaton_ (0 853, ](https://user-images.githubusercontent.com/13884479/222593122-578d5993-07fd-46cd-bd4c-97127c9a3927.gif)
+
+
+
+### Neighborhoods fixed kernels used are;
+
+![mask_c1nh](https://user-images.githubusercontent.com/13884479/222757101-deaafca8-f35c-4de7-a907-32107b42e8bf.png) ![mask_c2nh](https://user-images.githubusercontent.com/13884479/222757133-a32deb46-3778-4d7f-8497-70635cae3ed5.png) ![mask_c3nh](https://user-images.githubusercontent.com/13884479/222757154-e0cdf01f-4e1f-4460-90a5-69f6197416c2.png)
+
 
 
 
