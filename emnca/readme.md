@@ -123,3 +123,14 @@ run_automaton(width, height, steps, init_state, filename, neighborhoods, range_o
 
 
 
+### Neighborhoods fixed kernels used are;
+
+![mask_c1nh](https://user-images.githubusercontent.com/13884479/222757101-deaafca8-f35c-4de7-a907-32107b42e8bf.png)
+
+![mask_c2nh](https://user-images.githubusercontent.com/13884479/222757133-a32deb46-3778-4d7f-8497-70635cae3ed5.png)
+
+![mask_c3nh](https://user-images.githubusercontent.com/13884479/222757154-e0cdf01f-4e1f-4460-90a5-69f6197416c2.png)
+
+
+
+
