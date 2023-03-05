@@ -1,4 +1,4 @@
-# population = 10, genraation = 50
+# population = 10, generation = 50
 
 Curve looks like:
 
