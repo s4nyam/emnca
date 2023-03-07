@@ -82,7 +82,7 @@ nh1 = extract_neighborhood_from_file('neighborhoods/mask_c1.txt')
 nh2 = extract_neighborhood_from_file('neighborhoods/mask_c2.txt')
 nh3 = extract_neighborhood_from_file('neighborhoods/mask_c3.txt')
 neighborhoods = [nh1,nh2,nh3]
-range_of_neighborhood_sums=[[(0.329, 0.827, 0), (0.19, 0.996, 0), (0.393, 0.725, 1), (0.486, 0.978, 1), (0.091, 0.905, 0), (0.518, 0.539, 0), (0.908, 0.975, 0)], [(0.13, 0.734, 1), (0.317, 0.917, 0), (0.426, 0.963, 0), (0.46, 0.508, 1), (0.809, 0.814, 1)], [(0.268, 0.483, 1), (0.066, 0.211, 0)]]
+range_of_neighborhood_sums=[[(0.29, 0.311, 0)], [(0.047, 0.381, 1)], [(0.959, 0.98, 1), (0.28, 0.662, 1), (0.372, 0.83, 0), (0.393, 0.803, 1)]]
 
 
 

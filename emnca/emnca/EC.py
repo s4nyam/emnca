@@ -127,9 +127,19 @@ def mutation(rule):
                     rule[i].extend(new_bound)
                 # remove a tuple from the rule
                 elif prob_insert <= random_value < prob_insert + prob_remove:
-                    rule[i].pop(j)
-                    number_of_bounds -= 1
-                    j -= 1
+                    # add that code that allows not to wipe out the rule
+                    # At least one tuple will stay in the rule set
+                    # if rule length is more than 1, pop and remove one rule tuple
+                    if(len(rule[i])>1):
+                        rule[i].pop(j)
+                        number_of_bounds -= 1
+                        j -= 1
+                    # if rule length is exactly 1 you cannot wipe out the rule, in that case
+                    # perform mutation again. And it repeats till it does not fall in this code section.
+                    else:
+                        mutation(rule[i])
+                    
+                
                 # change a tuple from the rule by adding a small change
                 elif prob_insert + prob_remove <= random_value < prob_insert + prob_remove + prob_change:
                     # lower = round(random.uniform(0, 1),3)
@@ -258,21 +268,26 @@ for generation in range(GENERATION_SIZE):
 
     # New code 1 march
     print("-------------------Preserving 1 Elite---------------------------")
+    # preserve the elite from population itself
     elite_chromosome = selected_chromosomes_sorted[-1]
     elite_fitness = selected_chromosomes_sorted_fitness[-1]
     print("Elite Chromosome: ",elite_chromosome)
     print("Elite Chromosome Fitness: ",elite_fitness)
     # pop.append(elite_chromosome)
     
-    
+    # select elitee only on the basis of fitness and append it 
+    # select adn mutate and ony 9 places has to be filled
+    # mutate only remaining 9
+
+
     if(len(at_any_time_best_deflates)==0): # if elite list is empty
-        at_any_time_best_deflates.append(elite_fitness)
+        at_any_time_best_deflates.append(calculate_deflate(elite_chromosome))
         at_any_time_best_pop.append(elite_chromosome)
     if(elite_fitness<sorted(at_any_time_best_deflates)[-1]):
-        at_any_time_best_deflates.append(sorted(at_any_time_best_deflates)[-1])
+        at_any_time_best_deflates.append(calculate_deflate(elite_chromosome))
         at_any_time_best_pop.append(at_any_time_best_pop[len(at_any_time_best_pop)-1])
     else:
-        at_any_time_best_deflates.append(elite_fitness)
+        at_any_time_best_deflates.append(calculate_deflate(elite_chromosome))
         at_any_time_best_pop.append(elite_chromosome)
         
     print("----------------------------------------------------------------")
