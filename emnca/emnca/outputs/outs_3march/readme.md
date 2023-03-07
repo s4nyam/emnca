@@ -1,4 +1,5 @@
-# population = 10, generation = 50 (Stefano liked this plot, preserve this code ⭐️)
+# ⭐️⭐️⭐️⭐️⭐️
+# population = 10, generation = 50 (Stefano liked this plot, preserve this code)
 
 Curve looks like:
 
