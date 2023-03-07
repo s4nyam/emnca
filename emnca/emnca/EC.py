@@ -129,7 +129,7 @@ def mutation(rule):
                 elif prob_insert <= random_value < prob_insert + prob_remove:
                     # add that code that allows not to wipe out the rule
                     # At least one tuple will stay in the rule set
-                    # if rule length is more than 1, pop and remove one rule tuple
+                    # if rule length is more than 1, remove one rule tuple
                     if(len(rule[i])>1):
                         rule[i].pop(j)
                         number_of_bounds -= 1
