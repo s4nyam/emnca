@@ -47,8 +47,8 @@ def mnca(range_of_neighborhood_sums):
     nh2 = extract_neighborhood_from_file('neighborhoods/mask_c2.txt')
     nh3 = extract_neighborhood_from_file('neighborhoods/mask_c3.txt')
 
-    # neighborhoods = [nh1,nh2,nh3]
-    neighborhoods = [nh1,nh2]
+    neighborhoods = [nh1,nh2,nh3]
+    # neighborhoods = [nh1,nh2]
     board_arr = []
     board = init_board(width, height, init_state)
     ###############----CONSTANTS----###############
