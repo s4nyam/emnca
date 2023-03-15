@@ -6,9 +6,13 @@ This project is funded and supperted by HiØ, Norway under supervision of Stefan
 
 ### Do you want to know how this complex life evolved out of such simple rule set? Welcome here!
 
-https://user-images.githubusercontent.com/13884479/221711801-01b77936-149e-411d-8a73-4cbd7e0bde03.mp4
 
-Rule Set: [[(0.185, 0.2, 1), (0.343, 0.58, 0), (0.75, 0.85, 0), (0.15, 0.18, 0)], [(0.15, 0.28, 0), (0.445, 0.68, 1)]]
+
+https://user-images.githubusercontent.com/13884479/225459360-89789962-4e39-4e0d-82ea-8e8754a0b11b.mp4
+
+
+
+Rule Set: [[(0.309, 0.908, 1), (0.239, 0.847, 1)], [(0.325, 0.641, 1), (0.668, 0.847, 0), (0.44, 0.599, 0), (0.569, 0.723, 1)], [(0.254, 0.604, 1), (0.844, 0.905, 1), (0.803, 0.868, 1), (0.408, 0.545, 0)]]
 
 
 
