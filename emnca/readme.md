@@ -17,6 +17,10 @@ Best Individual: 143721
 [[(0.206, 0.371, 1)], [(0.862, 0.97, 1), (0.825, 0.895, 1)], [(0.15, 0.543, 0)]] 
 
 
+https://user-images.githubusercontent.com/13884479/227047883-b59d4ef3-99b1-4b11-9b49-ae0649fae9b9.mp4
+
+
+
 ### 2. p=10, g=50
 ![image](https://user-images.githubusercontent.com/13884479/226743726-6298ad2d-61d7-4cd5-a5b6-a253789dd4f1.png)
 
@@ -25,6 +29,10 @@ Results available here - https://github.com/s4nyam/emnca/blob/main/emnca/p10g50_
 Best Individual: 143872
 
 [[(0.674, 0.974, 1), (0.611, 0.998, 0)], [(0.924, 0.979, 0)], [(0.63, 0.982, 1), (0.164, 0.325, 0), (0.166, 0.315, 0), (0.14, 0.787, 1), (0.384, 0.514, 1)]]
+
+
+https://user-images.githubusercontent.com/13884479/227047906-82b74981-523a-42c5-b6fd-1c4d1201573c.mp4
+
 
 
 
@@ -36,6 +44,10 @@ Results available here - https://github.com/s4nyam/emnca/blob/main/emnca/p10g50_
 Best Individual: 143978
 
 [[(0.004, 0.204, 0)], [(0.059, 0.242, 0)], [(0.915, 0.94, 0), (0.1, 0.122, 1)]]
+
+
+https://user-images.githubusercontent.com/13884479/227047924-1ea36657-fc5d-4283-be72-85c0170819c7.mp4
+
 
 
 ### 4. p=10, g=70
@@ -58,6 +70,10 @@ Best Individual: 144290
 [[(0.97, 0.977, 0)], [(0.167, 0.186, 1)], [(0.372, 0.895, 1), (0.217, 0.469, 1), (0.478, 0.629, 0), (0.253, 0.287, 0), (0.594, 0.757, 0)]]
 
 
+https://user-images.githubusercontent.com/13884479/227047966-6b32b7bf-fdc0-4d91-bb08-7126559f4382.mp4
+
+
+
 
 ### 6. p=10, g=90
 ![image](https://user-images.githubusercontent.com/13884479/226744615-057397b3-411a-4f42-9df5-8aac3ab9de6f.png)
@@ -69,6 +85,10 @@ Best Individual: 143465
 [[(0.746, 0.902, 0), (0.047, 0.161, 1)], [(0.679, 0.711, 1)], [(0.35, 0.798, 0), (0.149, 0.972, 0), (0.277, 0.892, 1), (0.326, 0.551, 0), (0.151, 0.316, 0), (0.183, 0.627, 1), (0.245, 0.612, 1)]]
 
 
+https://user-images.githubusercontent.com/13884479/227047981-e022bf01-84c9-48f3-98f7-c7011518d48f.mp4
+
+
+
 
 ### 7. p=10, g=90
 ![image](https://user-images.githubusercontent.com/13884479/226744815-3444cc99-e44a-4569-ad66-767e5d2a76c8.png)
@@ -78,6 +98,10 @@ Results available here - https://github.com/s4nyam/emnca/blob/main/emnca/p10g100
 Best Individual: 143465
 
 [[(0.786, 0.926, 1)], [(0.73, 0.739, 0)], [(0.357, 0.736, 1), (0.47, 0.997, 1), (0.097, 0.807, 1), (0.225, 0.541, 1), (0.232, 0.988, 0)]]
+
+
+
+https://user-images.githubusercontent.com/13884479/227047996-66a062ad-845c-46d0-ac02-a4c657ddf557.mp4
 
 
 
