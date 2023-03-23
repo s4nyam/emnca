@@ -45,6 +45,10 @@ Best Fitness:
 127611
 ```
 
+Output
+
+https://user-images.githubusercontent.com/13884479/227143685-f81199b6-39f3-40a0-a91c-ee39c7998131.mp4
+
 
 ### p10g25_2.ipynb
 
@@ -74,6 +78,13 @@ Best Fitness:
 135685
 ```
 
+Output
+
+
+https://user-images.githubusercontent.com/13884479/227144020-48e7b9e5-2789-45fe-a9e8-3364915cca56.mp4
+
+
+
 
 ### p10g25_3.ipynb
 
@@ -93,6 +104,13 @@ Best Individual:
 Best Fitness: 
 135495
 ```
+
+Output
+
+https://user-images.githubusercontent.com/13884479/227144111-da934475-39e8-4325-9f95-fda8ec127bae.mp4
+
+
+
 
 
 ### p10g25_4.ipynb (File Lost)
@@ -149,6 +167,13 @@ Best Fitness:
 137661
 ```
 
+Output
+
+
+https://user-images.githubusercontent.com/13884479/227144208-bb4b53bd-1f35-4616-90c5-13a3a46e99ac.mp4
+
+
+
 ### p10g25_6.ipynb (File lost)
 
 
@@ -196,6 +221,11 @@ Best Individual:
 Best Fitness: 
 143917
 ```
+
+Output
+
+
+https://user-images.githubusercontent.com/13884479/227144263-63da39bb-1826-492b-8d71-48c7bd0bb946.mp4
 
 
 
