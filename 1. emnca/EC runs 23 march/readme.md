@@ -171,6 +171,10 @@ Best Fitness:
 144211
 ```
 
+Output:
+
+![cellular_automaton_ (0 651, 0 82, ](https://user-images.githubusercontent.com/13884479/227140405-a260098b-c151-4109-bd59-bf78e4952543.gif)
+
 
 
 ### p10g25_8.ipynb
