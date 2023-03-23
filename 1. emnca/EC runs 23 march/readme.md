@@ -95,6 +95,8 @@ Best Fitness:
 ```
 
 
+### p10g25_4.ipynb (File Lost)
+<!--
 ### p10g25_4.ipynb
 
 EC outputs / notebook - https://github.com/s4nyam/emnca/blob/main/1.%20emnca/EC%20runs%2023%20march/p10g25_4.ipynb
@@ -125,7 +127,7 @@ Best Individual:
 Best Fitness: 
 133829
 ```
-
+-->
 
 ### p10g25_5.ipynb
 
