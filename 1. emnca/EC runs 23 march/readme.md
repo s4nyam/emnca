@@ -225,3 +225,6 @@ Best Fitness:
 133641
 ```
 
+***(Notice that last and best rule are same always. In fact the slight bend we are seeing is because of the initialisation)***
+
+
