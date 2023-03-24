@@ -15,4 +15,5 @@
 ![image](https://user-images.githubusercontent.com/13884479/227401711-667d423c-700b-45e6-87fa-8af3d1acd0d2.png)
 
 ![image](https://user-images.githubusercontent.com/13884479/227401733-4e014693-4cce-40ba-80dd-95b035d9ac78.png)
+
 (The one thats shown here are same because new_population assigned as population from previous generation is equal to the starting population of next generation)
