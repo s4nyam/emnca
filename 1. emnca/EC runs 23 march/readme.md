@@ -262,3 +262,5 @@ Best Fitness:
 ***(Notice that last and best rule are same. In fact the slight bend we are seeing is because of the initialisation)***
 
 
+(Some metaphors - https://youtu.be/A_6fxpraulg and other videos on his channel)
+
