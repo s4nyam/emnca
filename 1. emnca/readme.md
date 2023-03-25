@@ -1,4 +1,10 @@
-# Mathematics for mutation
+# Mathematics for mutation (With exlanatory audio)
+
+
+
+https://user-images.githubusercontent.com/13884479/227719183-97d50114-c010-4008-a2b2-0482581d820f.mp4
+
+
 
 ![image](https://user-images.githubusercontent.com/13884479/227717138-c6f39b79-09a4-436a-bade-70fc8d4d9927.png)
 
