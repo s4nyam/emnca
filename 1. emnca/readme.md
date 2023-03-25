@@ -1,3 +1,16 @@
+# Mathematics for mutation
+
+![image](https://user-images.githubusercontent.com/13884479/227717138-c6f39b79-09a4-436a-bade-70fc8d4d9927.png)
+
+![image](https://user-images.githubusercontent.com/13884479/227717146-2f1e51fe-891c-4ecf-979d-e833009c78a6.png)
+
+![image](https://user-images.githubusercontent.com/13884479/227717149-c91f2fb7-5e43-42c3-974c-9a389decf1c2.png)
+
+![image](https://user-images.githubusercontent.com/13884479/227717191-1de47ebd-8981-4ae1-a00c-741cbb24ed2e.png)
+
+![image](https://user-images.githubusercontent.com/13884479/227717170-2a3255b0-e711-4922-bdfd-bb9878fd817d.png)
+
+
 # Here we check internally how EC is working!
 
 ![image](https://user-images.githubusercontent.com/13884479/227401479-fb3ffbc9-785a-45b1-acc6-9802306b8ddc.png)
