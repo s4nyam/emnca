@@ -1,4 +1,4 @@
-# Mathematics for mutation (With exlanatory audio)
+# Mathematics for mutation (With explanatory audio)
 
 
 
