@@ -22,6 +22,12 @@ Best Fitness:
 144783
 ```
 
+
+https://user-images.githubusercontent.com/13884479/227991008-310d7a4d-a180-43b0-aa80-0f749cb18562.mp4
+
+
+
+
 ### The reason of picking a rule that has slightly higher fitness value is because, we might have lost a good rule that could perform aesthetically appealing visuals but had lost because deflate does not calculate same value for same rule always. Moreover we are aware of deflate's poor performance in capturing information.
 
 ![d4670ecd-5368-494e-abf2-f5234c9de0db](https://user-images.githubusercontent.com/13884479/227911036-9cf2ae15-1f1d-4c60-9277-025a6e6e6f48.png)
