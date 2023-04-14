@@ -20,3 +20,6 @@
 
 ![C8747A93-A5C1-405A-8D59-9504F9D0BDEF_1_201_a](https://user-images.githubusercontent.com/13884479/232074792-4eb12708-be85-4949-8993-109c4cd4f224.jpeg)
 
+### Plots
+
+![image](https://user-images.githubusercontent.com/13884479/232092357-b4a2b075-20d2-43bd-b36e-604577343311.png)
