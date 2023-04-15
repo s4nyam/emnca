@@ -23,3 +23,13 @@
 ### Plots
 
 ![image](https://user-images.githubusercontent.com/13884479/232092357-b4a2b075-20d2-43bd-b36e-604577343311.png)
+
+
+### individual plots (zoomed)
+![image](https://user-images.githubusercontent.com/13884479/232249201-376ea09b-64c3-497a-9c41-a3e246c18333.png)
+![image](https://user-images.githubusercontent.com/13884479/232249204-0aba44cf-6fe2-4d10-87ec-d7eaa3de4c87.png)
+![image](https://user-images.githubusercontent.com/13884479/232249206-cd166d8c-7971-4174-a595-fa1afb777da0.png)
+![image](https://user-images.githubusercontent.com/13884479/232249208-1474d11c-05b5-4b7c-ac36-200e80860c9a.png)
+![image](https://user-images.githubusercontent.com/13884479/232249213-2e5d6c4c-dde5-4ffc-9673-96862d396b35.png)
+![image](https://user-images.githubusercontent.com/13884479/232249217-e5182aa8-783f-43dc-a1d2-5ff7a9ad604d.png)
+![image](https://user-images.githubusercontent.com/13884479/232249221-2fbdfe32-0439-43f9-82be-b96fda323a67.png)
